@@ -1,4 +1,4 @@
-## 👋 Hi
+## Hi there 👋
 
 ### 👷 Check out what I'm currently working on
 
