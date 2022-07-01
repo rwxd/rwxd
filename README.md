@@ -12,7 +12,7 @@
 ### 🔭 Latest releases I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.101.0](https://github.com/renovatebot/renovate/releases/tag/32.101.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.102.0](https://github.com/renovatebot/renovate/releases/tag/32.102.0), today) - Universal dependency update tool that fits into your workflows.
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.24](https://github.com/rwxd/wiki-container/releases/tag/v1.0.24), today) - Container to render wiki pages
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.2.28](https://github.com/rwxd/wiki/releases/tag/v1.2.28), 1 day ago) - Notes on many things
