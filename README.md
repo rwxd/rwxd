@@ -7,16 +7,16 @@
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (today)
-- [rwxd/helm-charts](https://github.com/rwxd/helm-charts) - Helm Charts collection (1 day ago)
+- [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) - Git as Source of Truth for network automation (today)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) ([v1.0.18](https://github.com/rwxd/netauto-git-sot/releases/tag/v1.0.18), today) - Git as Source of Truth for network automation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.103.1](https://github.com/renovatebot/renovate/releases/tag/32.103.1), today) - Universal dependency update tool that fits into your workflows.
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.3](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.3), today) - Ansible Role to generate subuid &amp; subgid
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.103.0](https://github.com/renovatebot/renovate/releases/tag/32.103.0), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.24](https://github.com/rwxd/wiki-container/releases/tag/v1.0.24), 1 day ago) - Container to render wiki pages
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.2.28](https://github.com/rwxd/wiki/releases/tag/v1.2.28), 2 days ago) - Notes on many things
 
 ### 🔨 Latest Pull Requests I published
 
