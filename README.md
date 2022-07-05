@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
 - [rwxd/python-pip-setup-test](https://github.com/rwxd/python-pip-setup-test) - Test python requirements &amp; pip installations (1 day ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (2 days ago)
-- [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) - Git as Source of Truth for network automation (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
