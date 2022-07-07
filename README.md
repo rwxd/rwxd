@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.107.0](https://github.com/renovatebot/renovate/releases/tag/32.107.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.107.1](https://github.com/renovatebot/renovate/releases/tag/32.107.1), today) - Universal dependency update tool that fits into your workflows.
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.2.30](https://github.com/rwxd/wiki/releases/tag/v1.2.30), today) - Notes on many things
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) ([v1.0.18](https://github.com/rwxd/netauto-git-sot/releases/tag/v1.0.18), 5 days ago) - Git as Source of Truth for network automation
