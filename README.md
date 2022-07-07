@@ -9,7 +9,7 @@
 - [rwxd/python-pip-setup-test](https://github.com/rwxd/python-pip-setup-test) - Test python requirements &amp; pip installations (3 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (4 days ago)
 
-### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases of projects I've contributed to
 
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.107.0](https://github.com/renovatebot/renovate/releases/tag/32.107.0), today) - Universal dependency update tool that fits into your workflows.
