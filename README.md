@@ -4,7 +4,7 @@
 
 
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (4 days ago)
 - [rwxd/python-pip-setup-test](https://github.com/rwxd/python-pip-setup-test) - Test python requirements &amp; pip installations (5 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (6 days ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(roles): security, miniflux, wallabag](https://github.com/rwxd/infra/pull/38) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [feat(miniflux): added miniflux](https://github.com/rwxd/infra/pull/37) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [feat(nebula): nebula configuration](https://github.com/rwxd/infra/pull/34) on [rwxd/infra](https://github.com/rwxd/infra) (5 days ago)
 - [Dev](https://github.com/rwxd/infra/pull/33) on [rwxd/infra](https://github.com/rwxd/infra) (5 days ago)
 - [chore(includes): fixed deprecated include with include_tasks](https://github.com/jnv/ansible-role-unattended-upgrades/pull/100) on [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) (5 days ago)
-- [refactor(tmux): refactored config](https://github.com/rwxd/.dotfiles/pull/18) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 week ago)
 
 ### 📫 How to reach me
 
