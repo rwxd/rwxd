@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (6 days ago)
 - [rwxd/python-pip-setup-test](https://github.com/rwxd/python-pip-setup-test) - Test python requirements &amp; pip installations (1 week ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Feat/monitoring stack](https://github.com/rwxd/infra/pull/41) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [fix(stuff): edited stuff](https://github.com/rwxd/infra/pull/39) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [feat(roles): security, miniflux, wallabag](https://github.com/rwxd/infra/pull/38) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 - [feat(miniflux): added miniflux](https://github.com/rwxd/infra/pull/37) on [rwxd/infra](https://github.com/rwxd/infra) (3 days ago)
 - [feat(nebula): nebula configuration](https://github.com/rwxd/infra/pull/34) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
-- [Dev](https://github.com/rwxd/infra/pull/33) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 
 ### 📫 How to reach me
 
