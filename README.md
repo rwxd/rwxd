@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(blackbox): blackbox monitoring](https://github.com/rwxd/infra/pull/42) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [Feat/monitoring stack](https://github.com/rwxd/infra/pull/41) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [fix(stuff): edited stuff](https://github.com/rwxd/infra/pull/39) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [feat(roles): security, miniflux, wallabag](https://github.com/rwxd/infra/pull/38) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 - [feat(miniflux): added miniflux](https://github.com/rwxd/infra/pull/37) on [rwxd/infra](https://github.com/rwxd/infra) (3 days ago)
-- [feat(nebula): nebula configuration](https://github.com/rwxd/infra/pull/34) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 
 ### 📫 How to reach me
 
