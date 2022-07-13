@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [node-exporter container with traefik](https://github.com/rwxd/infra/pull/50) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [fix(node-exporter): certificate role](https://github.com/rwxd/infra/pull/49) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [feat(ufw): ufw configuration with ansible](https://github.com/rwxd/infra/pull/47) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [feat(ufw-ddns): ufw rules with ddns](https://github.com/rwxd/infra/pull/46) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [fix(*): ....](https://github.com/rwxd/infra/pull/44) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
-- [feat(blackbox): blackbox monitoring](https://github.com/rwxd/infra/pull/42) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 
 ### 📫 How to reach me
 
