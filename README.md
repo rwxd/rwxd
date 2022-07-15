@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
-- [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) -  (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 week ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [docs(readme): fixed docker link](https://github.com/rwxd/excalidraw-container/pull/8) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
+- [fix(docker): description &amp; latest image](https://github.com/rwxd/excalidraw-container/pull/7) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
+- [fix(action): docker build args](https://github.com/rwxd/excalidraw-container/pull/6) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
+- [fix(actions): removed release pipeline](https://github.com/rwxd/excalidraw-container/pull/3) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
 - [feat(*): init](https://github.com/rwxd/excalidraw-container/pull/1) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
-- [fix(nvim): qflist keybindings &amp; removed nerdtree](https://github.com/rwxd/.dotfiles/pull/20) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
-- [fix(git): auto push new branch](https://github.com/rwxd/.dotfiles/pull/19) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 day ago)
-- [fix(prometheus-rules): longer times before alerts](https://github.com/rwxd/infra/pull/51) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
-- [node-exporter container with traefik](https://github.com/rwxd/infra/pull/50) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 
 ### 📫 How to reach me
 
