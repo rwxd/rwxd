@@ -4,7 +4,7 @@
 
 
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (3 days ago)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (3 days ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (2 weeks ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(prometheus): added speedtest-exporter](https://github.com/rwxd/infra/pull/55) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [Dev](https://github.com/rwxd/infra/pull/54) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [feat(borg): hetzner backup](https://github.com/rwxd/infra/pull/53) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 - [feat(borg): borg client &amp; server](https://github.com/rwxd/infra/pull/52) on [rwxd/infra](https://github.com/rwxd/infra) (3 days ago)
 - [fix(harpoon): keybindings](https://github.com/rwxd/.dotfiles/pull/22) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
-- [fix(nvim): added undotree](https://github.com/rwxd/.dotfiles/pull/21) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
 
 ### 📫 How to reach me
 
