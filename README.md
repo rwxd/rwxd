@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.121.0](https://github.com/renovatebot/renovate/releases/tag/32.121.0), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.4](https://github.com/rwxd/wiki/releases/tag/v1.3.4), 1 day ago) - Notes on many things
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.120.0](https://github.com/renovatebot/renovate/releases/tag/32.120.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) ([v1.0.18](https://github.com/rwxd/netauto-git-sot/releases/tag/v1.0.18), 2 weeks ago) - Git as Source of Truth for network automation
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.3](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.3), 2 weeks ago) - Ansible Role to generate subuid &amp; subgid
 
