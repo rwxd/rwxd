@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (1 day ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (2 days ago)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dev](https://github.com/rwxd/infra/pull/60) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [fix(zsh): scan git repo for passwords](https://github.com/rwxd/.dotfiles/pull/26) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 day ago)
 - [fix(*): changes](https://github.com/rwxd/.dotfiles/pull/25) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (2 days ago)
 - [fix(wireguard): ports](https://github.com/rwxd/infra/pull/58) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 - [feat(easy-wg): added easy-wg](https://github.com/rwxd/infra/pull/57) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
-- [fix(telescope): keybindings](https://github.com/rwxd/.dotfiles/pull/24) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
 
 ### 📫 How to reach me
 
