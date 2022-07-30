@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (1 day ago)
+- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (4 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (4 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (5 days ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [treeshitter playground](https://github.com/rwxd/.dotfiles/pull/28) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [Fix Glow](https://github.com/rwxd/.dotfiles/pull/27) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 day ago)
 - [Dev](https://github.com/rwxd/infra/pull/60) on [rwxd/infra](https://github.com/rwxd/infra) (4 days ago)
 - [fix(zsh): scan git repo for passwords](https://github.com/rwxd/.dotfiles/pull/26) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (5 days ago)
 - [fix(*): changes](https://github.com/rwxd/.dotfiles/pull/25) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (6 days ago)
-- [fix(wireguard): ports](https://github.com/rwxd/infra/pull/58) on [rwxd/infra](https://github.com/rwxd/infra) (6 days ago)
 
 ### 📫 How to reach me
 
