@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix(fritzbox-exporter): build from source](https://github.com/rwxd/infra/pull/62) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [fix(tmux): window numbers &amp; &lt;C-k&gt; for fzf window](https://github.com/rwxd/.dotfiles/pull/29) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 day ago)
 - [treeshitter playground](https://github.com/rwxd/.dotfiles/pull/28) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (2 days ago)
 - [Fix Glow](https://github.com/rwxd/.dotfiles/pull/27) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
 - [Dev](https://github.com/rwxd/infra/pull/60) on [rwxd/infra](https://github.com/rwxd/infra) (6 days ago)
-- [fix(zsh): scan git repo for passwords](https://github.com/rwxd/.dotfiles/pull/26) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 week ago)
 
 ### 📫 How to reach me
 
