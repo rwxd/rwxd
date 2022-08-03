@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
+- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (2 days ago)
-- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (2 days ago)
-- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (3 days ago)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix(rust): completion &amp; lsp](https://github.com/rwxd/.dotfiles/pull/30) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(fritzbox-exporter): build from source](https://github.com/rwxd/infra/pull/62) on [rwxd/infra](https://github.com/rwxd/infra) (2 days ago)
 - [fix(tmux): window numbers &amp; &lt;C-k&gt; for fzf window](https://github.com/rwxd/.dotfiles/pull/29) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
 - [treeshitter playground](https://github.com/rwxd/.dotfiles/pull/28) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (4 days ago)
 - [Fix Glow](https://github.com/rwxd/.dotfiles/pull/27) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (5 days ago)
-- [Dev](https://github.com/rwxd/infra/pull/60) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 
 ### 📫 How to reach me
 
