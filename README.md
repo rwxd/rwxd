@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix(treesitter): added class to context](https://github.com/rwxd/.dotfiles/pull/34) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [feat(treesitter): added context plugin](https://github.com/rwxd/.dotfiles/pull/33) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(tmux): syntax fix](https://github.com/rwxd/.dotfiles/pull/32) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [Fix](https://github.com/rwxd/.dotfiles/pull/31) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (4 days ago)
 - [fix(rust): completion &amp; lsp](https://github.com/rwxd/.dotfiles/pull/30) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (6 days ago)
-- [fix(fritzbox-exporter): build from source](https://github.com/rwxd/infra/pull/62) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 
 ### 📫 How to reach me
 
