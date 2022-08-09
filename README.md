@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.153.0](https://github.com/renovatebot/renovate/releases/tag/32.153.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.153.1](https://github.com/renovatebot/renovate/releases/tag/32.153.1), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.6](https://github.com/rwxd/wiki/releases/tag/v1.3.6), 1 week ago) - Notes on many things
 - [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) ([v1.0.18](https://github.com/rwxd/netauto-git-sot/releases/tag/v1.0.18), 1 month ago) - Git as Source of Truth for network automation
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(treesitter): added context plugin](https://github.com/rwxd/.dotfiles/pull/33) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(tmux): syntax fix](https://github.com/rwxd/.dotfiles/pull/32) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [Fix](https://github.com/rwxd/.dotfiles/pull/31) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (4 days ago)
 - [fix(rust): completion &amp; lsp](https://github.com/rwxd/.dotfiles/pull/30) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (6 days ago)
 - [fix(fritzbox-exporter): build from source](https://github.com/rwxd/infra/pull/62) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
-- [fix(tmux): window numbers &amp; &lt;C-k&gt; for fzf window](https://github.com/rwxd/.dotfiles/pull/29) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 week ago)
 
 ### 📫 How to reach me
 
