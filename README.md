@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (2 days ago)
+- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
+- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (3 days ago)
-- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (5 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (3 weeks ago)
 
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix(fzf): changed to fzf-tmux](https://github.com/rwxd/.dotfiles/pull/35) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(treesitter): added class to context](https://github.com/rwxd/.dotfiles/pull/34) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (2 days ago)
 - [feat(treesitter): added context plugin](https://github.com/rwxd/.dotfiles/pull/33) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (2 days ago)
 - [fix(tmux): syntax fix](https://github.com/rwxd/.dotfiles/pull/32) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (2 days ago)
 - [Fix](https://github.com/rwxd/.dotfiles/pull/31) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (6 days ago)
-- [fix(rust): completion &amp; lsp](https://github.com/rwxd/.dotfiles/pull/30) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 week ago)
 
 ### 📫 How to reach me
 
