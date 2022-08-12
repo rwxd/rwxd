@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [changes](https://github.com/rwxd/.dotfiles/pull/38) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(tmux-sessionizer): added ignored paths](https://github.com/rwxd/.dotfiles/pull/37) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [Fix](https://github.com/rwxd/.dotfiles/pull/36) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
 - [fix(fzf): changed to fzf-tmux](https://github.com/rwxd/.dotfiles/pull/35) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 day ago)
 - [fix(treesitter): added class to context](https://github.com/rwxd/.dotfiles/pull/34) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
-- [feat(treesitter): added context plugin](https://github.com/rwxd/.dotfiles/pull/33) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (3 days ago)
 
 ### 📫 How to reach me
 
