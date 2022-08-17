@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (1 day ago)
+- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (3 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (3 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
