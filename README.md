@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (3 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (2 weeks ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (2 weeks ago)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (1 month ago)
 
