@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) -  (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (3 weeks ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 month ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 month ago)
-- [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (2 months ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(*): init](https://github.com/rwxd/wallabag2readwise/pull/1) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (today)
 - [Dev](https://github.com/rwxd/infra/pull/65) on [rwxd/infra](https://github.com/rwxd/infra) (1 month ago)
 - [fix(*): backup &amp; cloud update](https://github.com/rwxd/infra/pull/64) on [rwxd/infra](https://github.com/rwxd/infra) (1 month ago)
 - [changes](https://github.com/rwxd/.dotfiles/pull/38) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 month ago)
 - [fix(tmux-sessionizer): added ignored paths](https://github.com/rwxd/.dotfiles/pull/37) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 month ago)
-- [Fix](https://github.com/rwxd/.dotfiles/pull/36) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 month ago)
 
 ### 📫 How to reach me
 
