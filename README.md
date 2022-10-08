@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (3 days ago)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (4 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (6 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Sync wallabag annotations to readwise highlights (1 week ago)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (1 week ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix(rules): increased times](https://github.com/rwxd/infra/pull/67) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [docs(settings): update](https://github.com/rwxd/wallabag2readwise/pull/4) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 week ago)
 - [feat(*): init](https://github.com/rwxd/wallabag2readwise/pull/1) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 week ago)
 - [Dev](https://github.com/rwxd/infra/pull/65) on [rwxd/infra](https://github.com/rwxd/infra) (1 month ago)
 - [fix(*): backup &amp; cloud update](https://github.com/rwxd/infra/pull/64) on [rwxd/infra](https://github.com/rwxd/infra) (1 month ago)
-- [changes](https://github.com/rwxd/.dotfiles/pull/38) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (1 month ago)
 
 ### 📫 How to reach me
 
