@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/.dotfiles-nix](https://github.com/rwxd/.dotfiles-nix) -  (today)
+- [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (4 days ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
