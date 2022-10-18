@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (2 days ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (3 days ago)
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat(vikunja): implemented](https://github.com/rwxd/infra/pull/68) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [containerlab: init at version 0.32.1](https://github.com/NixOS/nixpkgs/pull/196282) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [fix(rules): increased times](https://github.com/rwxd/infra/pull/67) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 - [docs(settings): update](https://github.com/rwxd/wallabag2readwise/pull/4) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
 - [feat(*): init](https://github.com/rwxd/wallabag2readwise/pull/1) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
-- [Dev](https://github.com/rwxd/infra/pull/65) on [rwxd/infra](https://github.com/rwxd/infra) (1 month ago)
 
 ### 📫 How to reach me
 
