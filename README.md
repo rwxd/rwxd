@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dev](https://github.com/rwxd/infra/pull/69) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [feat(vikunja): implemented](https://github.com/rwxd/infra/pull/68) on [rwxd/infra](https://github.com/rwxd/infra) (1 day ago)
 - [containerlab: init at version 0.32.1](https://github.com/NixOS/nixpkgs/pull/196282) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [fix(rules): increased times](https://github.com/rwxd/infra/pull/67) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 - [docs(settings): update](https://github.com/rwxd/wallabag2readwise/pull/4) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
-- [feat(*): init](https://github.com/rwxd/wallabag2readwise/pull/1) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
 
 ### 📫 How to reach me
 
