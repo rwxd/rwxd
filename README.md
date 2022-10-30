@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 week ago)
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (2 weeks ago)
 - [rwxd/setup](https://github.com/rwxd/setup) - Playbooks to configure systems (2 weeks ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dev](https://github.com/rwxd/infra/pull/71) on [rwxd/infra](https://github.com/rwxd/infra) (today)
 - [Dev](https://github.com/rwxd/infra/pull/70) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 - [Dev](https://github.com/rwxd/infra/pull/69) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 - [feat(vikunja): implemented](https://github.com/rwxd/infra/pull/68) on [rwxd/infra](https://github.com/rwxd/infra) (1 week ago)
 - [containerlab: init at version 0.32.1](https://github.com/NixOS/nixpkgs/pull/196282) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
-- [fix(rules): increased times](https://github.com/rwxd/infra/pull/67) on [rwxd/infra](https://github.com/rwxd/infra) (3 weeks ago)
 
 ### 📫 How to reach me
 
