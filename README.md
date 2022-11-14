@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.24.1](https://github.com/renovatebot/renovate/releases/tag/34.24.1), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([v0.8.1](https://github.com/neovim/neovim/releases/tag/v0.8.1), today) - Vim-fork focused on extensibility and usability
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.24.0](https://github.com/renovatebot/renovate/releases/tag/34.24.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.10](https://github.com/rwxd/wiki/releases/tag/v1.3.10), 1 month ago) - Notes on many things
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.0.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.0.0), 1 month ago) - Sync wallabag annotations to readwise highlights
 - [rwxd/netauto-git-sot](https://github.com/rwxd/netauto-git-sot) ([v1.0.18](https://github.com/rwxd/netauto-git-sot/releases/tag/v1.0.18), 4 months ago) - Git as Source of Truth for network automation
