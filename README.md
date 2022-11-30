@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
 - [rwxd/aoc2022](https://github.com/rwxd/aoc2022) -  (2 days ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) -  (3 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement! (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
