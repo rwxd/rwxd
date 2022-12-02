@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/aoc2022](https://github.com/rwxd/aoc2022) -  (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (2 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 days ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) -  (5 days ago)
