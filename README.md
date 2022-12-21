@@ -4,10 +4,10 @@
 
 
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [rwxd/pulla](https://github.com/rwxd/pulla) -  (today)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/aoc2022](https://github.com/rwxd/aoc2022) -  (1 week ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (3 weeks ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
