@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.1](https://github.com/rwxd/ipams/releases/tag/v1.2.1), today) - Tool to query multiple IPAMs.
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.2](https://github.com/rwxd/ipams/releases/tag/v1.2.2), today) - Tool to query multiple IPAMs.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.2.9](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.2.9), today) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/gh-templates](https://github.com/rwxd/gh-templates) ([v1.0.4](https://github.com/rwxd/gh-templates/releases/tag/v1.0.4), today) - GitHub Templates for Repositories.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.73.0](https://github.com/renovatebot/renovate/releases/tag/34.73.0), today) - Universal dependency update tool that fits into your workflows.
