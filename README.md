@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.73.2](https://github.com/renovatebot/renovate/releases/tag/34.73.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.73.3](https://github.com/renovatebot/renovate/releases/tag/34.73.3), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.3.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.3.0), 1 day ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.2](https://github.com/rwxd/ipams/releases/tag/v1.2.2), 2 days ago) - Tool to query multiple IPAMs.
