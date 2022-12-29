@@ -3,17 +3,17 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (1 day ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (today)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (2 days ago)
-- [rwxd/gh-templates](https://github.com/rwxd/gh-templates) - GitHub Templates for Repositories. (5 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (5 days ago)
+- [rwxd/gh-templates](https://github.com/rwxd/gh-templates) - GitHub Templates for Repositories. (5 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.3](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.3), today) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.2](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.2), 1 day ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.74.2](https://github.com/renovatebot/renovate/releases/tag/34.74.2), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.3.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.3.0), 4 days ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.2](https://github.com/rwxd/ipams/releases/tag/v1.2.2), 5 days ago) - Tool to query multiple IPAMs.
