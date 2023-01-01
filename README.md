@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.77.1](https://github.com/renovatebot/renovate/releases/tag/34.77.1), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.1](https://github.com/rwxd/pulla/releases/tag/v1.1.1), 1 day ago) - Backup personal GitHub and starred repositories to the local file system.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.77.0](https://github.com/renovatebot/renovate/releases/tag/34.77.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.3.2](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.3.2), 2 days ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.3](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.3), 3 days ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 
