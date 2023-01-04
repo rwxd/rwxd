@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (2 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (2 days ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (4 days ago)
 
