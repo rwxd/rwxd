@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.84.1](https://github.com/renovatebot/renovate/releases/tag/34.84.1), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.84.1](https://github.com/renovatebot/renovate/releases/tag/34.84.1), today) - Universal dependency update tool that fits into your workflows.
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.5](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.5), 3 days ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.26](https://github.com/rwxd/wiki-container/releases/tag/v1.0.26), 3 days ago) - Container to render wiki pages
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.1](https://github.com/rwxd/pulla/releases/tag/v1.1.1), 5 days ago) - Backup personal GitHub and starred repositories to the local file system.
