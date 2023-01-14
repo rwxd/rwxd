@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.102.2](https://github.com/renovatebot/renovate/releases/tag/34.102.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.102.3](https://github.com/renovatebot/renovate/releases/tag/34.102.3), today) - Universal dependency update tool that fits into your workflows.
 - [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.4](https://github.com/rwxd/ipams/releases/tag/v1.2.4), 1 day ago) - Tool to query multiple IPAMs.
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.5](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.5), 1 week ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
