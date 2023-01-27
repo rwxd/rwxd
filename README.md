@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (3 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 weeks ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 weeks ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (3 weeks ago)
