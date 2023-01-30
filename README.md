@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
-- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (2 days ago)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (5 days ago)
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (3 weeks ago)
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 weeks ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (3 days ago)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (6 days ago)
+- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (4 weeks ago)
+- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.5](https://github.com/rwxd/ipams/releases/tag/v1.2.5), 5 days ago) - Tool to query multiple IPAMs.
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.5](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.5), 3 weeks ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.26](https://github.com/rwxd/wiki-container/releases/tag/v1.0.26), 3 weeks ago) - Container to render wiki pages
-- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.1](https://github.com/rwxd/pulla/releases/tag/v1.1.1), 4 weeks ago) - Backup personal GitHub and starred repositories to the local file system.
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.5](https://github.com/rwxd/ipams/releases/tag/v1.2.5), 6 days ago) - Tool to query multiple IPAMs.
+- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.5](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.5), 4 weeks ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
+- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.26](https://github.com/rwxd/wiki-container/releases/tag/v1.0.26), 4 weeks ago) - Container to render wiki pages
+- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.1](https://github.com/rwxd/pulla/releases/tag/v1.1.1), 1 month ago) - Backup personal GitHub and starred repositories to the local file system.
 
 ### 🔨 Latest Pull Requests I published
 
