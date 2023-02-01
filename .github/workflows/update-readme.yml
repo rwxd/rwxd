@@ -16,12 +16,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          writeTo: "README-generated.md"
 
       - uses: actions/upload-artifact@v1
         with:
-          name: README.md
-          path: README.md
+          name: README-generated.md
+          path: README-generated.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
