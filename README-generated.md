@@ -6,8 +6,8 @@
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
 - [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (1 week ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (1 month ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 month ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
