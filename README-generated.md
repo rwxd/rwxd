@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (2 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (1 week ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 weeks ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (1 month ago)
