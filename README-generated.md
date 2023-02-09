@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (3 days ago)
 - [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (1 week ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 weeks ago)
