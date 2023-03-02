@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 days ago)
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (4 days ago)
-- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (6 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
+- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (5 days ago)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 week ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.11](https://github.com/rwxd/wiki/releases/tag/v1.3.11), 3 days ago) - Notes on many things
-- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.2](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.2), 6 days ago) - Export / synchronize wallabag annotations to readwise highlights
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.11](https://github.com/rwxd/wiki/releases/tag/v1.3.11), 4 days ago) - Notes on many things
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.2](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.2), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.2](https://github.com/rwxd/renovate-config/releases/tag/v1.1.2), 3 weeks ago) - Config Repository for Renovate
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.5](https://github.com/rwxd/ipams/releases/tag/v1.2.5), 1 month ago) - Tool to query multiple IPAMs.
 
