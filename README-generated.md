@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.12](https://github.com/rwxd/wiki/releases/tag/v1.3.12), 1 day ago) - Notes on many things
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.2](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.2), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.2](https://github.com/rwxd/renovate-config/releases/tag/v1.1.2), 3 weeks ago) - Config Repository for Renovate
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.2.5](https://github.com/rwxd/ipams/releases/tag/v1.2.5), 1 month ago) - Tool to query multiple IPAMs.
