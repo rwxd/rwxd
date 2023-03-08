@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 day ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
-- [rwxd/new-newt](https://github.com/rwxd/new-newt) - Domain Availability Checker with Redis Backend. (1 day ago)
+- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (today)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 day ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 day ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
-- [fix(pre-commit): added test workflow](https://github.com/rwxd/ipams/pull/17) on [rwxd/ipams](https://github.com/rwxd/ipams) (1 month ago)
-- [fix(*): typing, linting and moved configs to own model](https://github.com/rwxd/ipams/pull/15) on [rwxd/ipams](https://github.com/rwxd/ipams) (1 month ago)
-- [build(pre-commit): update hooks](https://github.com/rwxd/ipams/pull/12) on [rwxd/ipams](https://github.com/rwxd/ipams) (2 months ago)
-- [fix(readwise): trying to circumvent JSONDecodeErrors](https://github.com/rwxd/wallabag2readwise/pull/22) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
-- [fix(readwise): tags will be added to new articles in a single run](https://github.com/rwxd/wallabag2readwise/pull/20) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
+- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/.dotfiles/pull/41) on [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) (today)
+- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|pre-commit\ install-hooks\n||g&#39;](https://github.com/rwxd/pre-commit-hooks/pull/14) on [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) (today)
+- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|pre-commit\ install-hooks\n||g&#39;](https://github.com/rwxd/infra/pull/77) on [rwxd/infra](https://github.com/rwxd/infra) (today)
+- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|pre-commit\ install-hooks\n||g&#39;](https://github.com/rwxd/excalidraw-container/pull/18) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (today)
+- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|pre-commit\ install-hooks\n||g&#39;](https://github.com/rwxd/clab-labs/pull/3) on [rwxd/clab-labs](https://github.com/rwxd/clab-labs) (today)
 
 ### 📫 How to reach me
 
