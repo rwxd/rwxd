@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/.dotfiles](https://github.com/rwxd/.dotfiles) - My dotfiles &amp; helper scripts. (1 day ago)
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [rwxd/clab-labs](https://github.com/rwxd/clab-labs) -  (1 day ago)
 - [rwxd/infra](https://github.com/rwxd/infra) - Infrastructure configuration for Raspberry Pi&#39;s &amp; K3s (1 day ago)
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 day ago)
 - [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) - Daily build for excalidraw (1 day ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 day ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
