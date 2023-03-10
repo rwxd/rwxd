@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.0.12](https://github.com/rwxd/pyreadwise/releases/tag/v1.0.12), 1 day ago) - Python Module to use the Readwise API
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.9](https://github.com/rwxd/new-newt/releases/tag/v0.0.9), 3 days ago) - Domain Availability Checker with Redis Backend.
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.12](https://github.com/rwxd/wiki/releases/tag/v1.3.12), 1 week ago) - Notes on many things
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.2](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.2), 2 weeks ago) - Export / synchronize wallabag annotations to readwise highlights
