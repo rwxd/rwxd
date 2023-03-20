@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 5 days ago) - Notes on many things
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.11](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.11), 5 days ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.5](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.5), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
