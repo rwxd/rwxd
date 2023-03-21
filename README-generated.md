@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (5 days ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (5 days ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 days ago)
+- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (6 days ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (6 days ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (6 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 5 days ago) - Notes on many things
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.11](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.11), 5 days ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 6 days ago) - Notes on many things
+- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.11](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.11), 6 days ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.5](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.5), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.2](https://github.com/rwxd/ipams/releases/tag/v1.3.2), 1 week ago) - Tool to query multiple IPAMs.
 
