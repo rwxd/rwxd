@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (today)
 - [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 week ago)
 - [Dependencies &amp; small fixes](https://github.com/rwxd/pyreadwise/pull/13) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 week ago)
 - [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/pre-commit-hooks/pull/15) on [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) (2 weeks ago)
 - [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/infra/pull/78) on [rwxd/infra](https://github.com/rwxd/infra) (2 weeks ago)
-- [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/excalidraw-container/pull/19) on [rwxd/excalidraw-container](https://github.com/rwxd/excalidraw-container) (2 weeks ago)
 
 ### 📫 How to reach me
 
