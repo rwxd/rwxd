@@ -12,18 +12,18 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 2 days ago) - Vim-fork focused on extensibility and usability
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 1 week ago) - Notes on many things
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.11](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.11), 1 week ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.5](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.5), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.2](https://github.com/rwxd/ipams/releases/tag/v1.3.2), 1 week ago) - Tool to query multiple IPAMs.
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.2](https://github.com/rwxd/ipams/releases/tag/v1.3.2), 2 weeks ago) - Tool to query multiple IPAMs.
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (today)
-- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 week ago)
-- [Dependencies &amp; small fixes](https://github.com/rwxd/pyreadwise/pull/13) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 week ago)
+- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (1 day ago)
+- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
+- [Dependencies &amp; small fixes](https://github.com/rwxd/pyreadwise/pull/13) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (2 weeks ago)
 - [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/pre-commit-hooks/pull/15) on [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) (2 weeks ago)
 - [git ls-files -z -- Makefile | xargs -0 sed -i -z &#39;s|\s*pre-commit\ install-hooks||g&#39;](https://github.com/rwxd/infra/pull/78) on [rwxd/infra](https://github.com/rwxd/infra) (2 weeks ago)
 
