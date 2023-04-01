@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 day ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (5 days ago)
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers (1 week ago)
