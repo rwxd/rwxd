@@ -7,7 +7,7 @@
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (2 days ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (6 days ago)
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers (1 week ago)
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (2 weeks ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
