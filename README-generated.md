@@ -4,16 +4,16 @@
 
 
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
-- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (3 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (4 days ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 2 days ago) - Prometheus exporter for Fritz!Box home routers
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 3 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.0.14](https://github.com/rwxd/pyreadwise/releases/tag/v1.0.14), 1 week ago) - Python Module to use the Readwise API
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 2 weeks ago) - Notes on many things
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.11](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.11), 2 weeks ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
