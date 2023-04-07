@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
+- [neovim/neovim](https://github.com/neovim/neovim) ([v0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0), today) - Vim-fork focused on extensibility and usability
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.6](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.6), 2 days ago) - Export / synchronize wallabag annotations to readwise highlights
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 6 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.0.14](https://github.com/rwxd/pyreadwise/releases/tag/v1.0.14), 1 week ago) - Python Module to use the Readwise API
