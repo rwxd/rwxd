@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), 1 day ago) - Vim-fork focused on extensibility and usability
+- [neovim/neovim](https://github.com/neovim/neovim) ([nightly](https://github.com/neovim/neovim/releases/tag/nightly), today) - Vim-fork focused on extensibility and usability
 - [ytti/oxidized](https://github.com/ytti/oxidized) ([0.29.0](https://github.com/ytti/oxidized/releases/tag/0.29.0), 2 days ago) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement!
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.6](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.6), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 2 weeks ago) - Prometheus exporter for Fritz!Box home routers
