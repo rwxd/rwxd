@@ -7,7 +7,7 @@
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (2 weeks ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (2 weeks ago)
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers (3 weeks ago)
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -24,7 +24,7 @@
 - [fix(rhel 9): autoupdate with dnf-automatic](https://github.com/geerlingguy/ansible-role-security/pull/115) on [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) (1 week ago)
 - [Pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/57) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 weeks ago)
 - [Datetime fixes](https://github.com/rwxd/pyreadwise/pull/19) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (3 weeks ago)
-- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (3 weeks ago)
+- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (4 weeks ago)
 - [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
 
 ### 📫 How to reach me
