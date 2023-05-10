@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 week ago)
 - [rwxd/helm-charts](https://github.com/rwxd/helm-charts) - Helm Charts collection (1 week ago)
@@ -25,7 +25,7 @@
 - [Pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/57) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
 - [Datetime fixes](https://github.com/rwxd/pyreadwise/pull/19) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 month ago)
 - [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (1 month ago)
-- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
+- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
 
 ### 📫 How to reach me
 
