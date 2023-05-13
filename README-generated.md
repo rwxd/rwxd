@@ -21,7 +21,7 @@
 ### 🔨 Latest Pull Requests I published
 
 
-- [fix(rhel 9): autoupdate with dnf-automatic](https://github.com/geerlingguy/ansible-role-security/pull/115) on [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) (4 weeks ago)
+- [fix(rhel 9): autoupdate with dnf-automatic](https://github.com/geerlingguy/ansible-role-security/pull/115) on [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) (1 month ago)
 - [Pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/57) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
 - [Datetime fixes](https://github.com/rwxd/pyreadwise/pull/19) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 month ago)
 - [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (1 month ago)
