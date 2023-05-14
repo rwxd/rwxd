@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 week ago)
 - [rwxd/helm-charts](https://github.com/rwxd/helm-charts) - Helm Charts collection (2 weeks ago)
@@ -16,7 +16,7 @@
 - [ytti/oxidized](https://github.com/ytti/oxidized) ([0.29.1](https://github.com/ytti/oxidized/releases/tag/0.29.1), 2 weeks ago) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement!
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 1 month ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.0.14](https://github.com/rwxd/pyreadwise/releases/tag/v1.0.14), 1 month ago) - Python Module to use the Readwise API
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 1 month ago) - Notes on many things
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.19](https://github.com/rwxd/wiki/releases/tag/v1.3.19), 2 months ago) - Notes on many things
 
 ### 🔨 Latest Pull Requests I published
 
