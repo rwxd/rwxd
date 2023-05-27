@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/shitops](https://github.com/rwxd/shitops) -  (today)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (2 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (3 weeks ago)
