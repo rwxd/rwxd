@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (3 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (3 weeks ago)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
