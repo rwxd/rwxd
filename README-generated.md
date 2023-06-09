@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 days ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 days ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (4 days ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (6 days ago)
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool (1 week ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (2 weeks ago)
 
@@ -25,7 +25,7 @@
 - [Pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/57) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
 - [Datetime fixes](https://github.com/rwxd/pyreadwise/pull/19) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (2 months ago)
 - [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (2 months ago)
-- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
+- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (3 months ago)
 
 ### 📫 How to reach me
 
