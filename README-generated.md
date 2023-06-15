@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (3 days ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (4 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.4](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.4), 2 weeks ago) - Ansible Role to generate subuid &amp; subgid
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.4](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.4), 3 weeks ago) - Ansible Role to generate subuid &amp; subgid
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.7](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.7), 1 month ago) - Export / synchronize wallabag annotations to readwise highlights
 - [ytti/oxidized](https://github.com/ytti/oxidized) ([0.29.1](https://github.com/ytti/oxidized/releases/tag/0.29.1), 1 month ago) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement!
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.3](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.3), 2 months ago) - Prometheus exporter for Fritz!Box home routers
