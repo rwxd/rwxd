@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.23](https://github.com/rwxd/wiki/releases/tag/v1.3.23), today) - Notes on many things
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.24](https://github.com/rwxd/wiki/releases/tag/v1.3.24), today) - Notes on many things
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.4](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.4), 3 weeks ago) - Ansible Role to generate subuid &amp; subgid
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.7](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.7), 1 month ago) - Export / synchronize wallabag annotations to readwise highlights
 - [ytti/oxidized](https://github.com/ytti/oxidized) ([0.29.1](https://github.com/ytti/oxidized/releases/tag/0.29.1), 1 month ago) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement!
