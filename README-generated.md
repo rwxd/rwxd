@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (4 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool (2 weeks ago)
