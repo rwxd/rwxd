@@ -3,16 +3,16 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (6 days ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.24](https://github.com/rwxd/wiki/releases/tag/v1.3.24), 1 day ago) - Notes on many things
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.24](https://github.com/rwxd/wiki/releases/tag/v1.3.24), 2 days ago) - Notes on many things
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.4](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.4), 3 weeks ago) - Ansible Role to generate subuid &amp; subgid
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.4.7](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.4.7), 1 month ago) - Export / synchronize wallabag annotations to readwise highlights
 - [ytti/oxidized](https://github.com/ytti/oxidized) ([0.29.1](https://github.com/ytti/oxidized/releases/tag/0.29.1), 1 month ago) - Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement!
