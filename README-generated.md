@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 day ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: docs requirements](https://github.com/rwxd/pyreadwise/pull/49) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (today)
+- [docs(plausible): added](https://github.com/rwxd/pyreadwise/pull/48) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (today)
 - [fix(rhel 9): autoupdate with dnf-automatic](https://github.com/geerlingguy/ansible-role-security/pull/115) on [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) (2 months ago)
 - [Pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/57) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
 - [Datetime fixes](https://github.com/rwxd/pyreadwise/pull/19) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (2 months ago)
-- [Fixes for the helm chart](https://github.com/pdreker/fritz_exporter/pull/169) on [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) (2 months ago)
-- [fix: changed to pyreadwise](https://github.com/rwxd/wallabag2readwise/pull/47) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (3 months ago)
 
 ### 📫 How to reach me
 
