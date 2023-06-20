@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (1 day ago)
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (2 days ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 days ago)
@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.1.0](https://github.com/rwxd/ankigengpt/releases/tag/v1.1.0), 1 day ago) - 
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.1.3](https://github.com/rwxd/ankigengpt/releases/tag/v1.1.3), today) - 
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.26](https://github.com/rwxd/wiki/releases/tag/v1.3.26), 3 days ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.27](https://github.com/rwxd/wiki-container/releases/tag/v1.0.27), 3 days ago) - Container to render wiki pages
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.4](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.4), 3 weeks ago) - Ansible Role to generate subuid &amp; subgid
