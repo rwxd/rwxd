@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (1 day ago)
+- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (today)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (3 days ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (6 days ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
