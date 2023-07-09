@@ -5,8 +5,8 @@
 
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (1 week ago)
 - [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
