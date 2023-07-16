@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (2 weeks ago)
@@ -21,10 +21,10 @@
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: update](https://github.com/rwxd/pyreadwise/pull/51) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (3 weeks ago)
-- [chore: docs requirements](https://github.com/rwxd/pyreadwise/pull/50) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (3 weeks ago)
-- [chore: docs requirements](https://github.com/rwxd/pyreadwise/pull/49) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (3 weeks ago)
-- [docs(plausible): added](https://github.com/rwxd/pyreadwise/pull/48) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (3 weeks ago)
+- [chore: update](https://github.com/rwxd/pyreadwise/pull/51) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (4 weeks ago)
+- [chore: docs requirements](https://github.com/rwxd/pyreadwise/pull/50) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (4 weeks ago)
+- [chore: docs requirements](https://github.com/rwxd/pyreadwise/pull/49) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (4 weeks ago)
+- [docs(plausible): added](https://github.com/rwxd/pyreadwise/pull/48) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (4 weeks ago)
 - [fix(rhel 9): autoupdate with dnf-automatic](https://github.com/geerlingguy/ansible-role-security/pull/115) on [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) (3 months ago)
 
 ### 📫 How to reach me
