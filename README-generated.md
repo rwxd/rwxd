@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (2 weeks ago)
-- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
