@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 day ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
@@ -15,8 +15,8 @@
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.3](https://github.com/rwxd/ipams/releases/tag/v1.3.3), 1 week ago) - Tool to query multiple IPAMs.
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.1.4](https://github.com/rwxd/ankigengpt/releases/tag/v1.1.4), 2 weeks ago) - 
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.7](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.7), 3 weeks ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.26](https://github.com/rwxd/wiki/releases/tag/v1.3.26), 4 weeks ago) - Notes on many things
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.27](https://github.com/rwxd/wiki-container/releases/tag/v1.0.27), 4 weeks ago) - Container to render wiki pages
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.26](https://github.com/rwxd/wiki/releases/tag/v1.3.26), 1 month ago) - Notes on many things
+- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.27](https://github.com/rwxd/wiki-container/releases/tag/v1.0.27), 1 month ago) - Container to render wiki pages
 
 ### 🔨 Latest Pull Requests I published
 
