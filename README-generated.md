@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 day ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (2 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
