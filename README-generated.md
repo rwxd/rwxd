@@ -7,7 +7,7 @@
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (5 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (6 days ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 weeks ago)
+- [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
