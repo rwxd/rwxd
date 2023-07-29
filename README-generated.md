@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (today)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (today)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (4 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.5.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.5.0), today) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.1.0](https://github.com/rwxd/pyreadwise/releases/tag/v1.1.0), today) - Python Module to use the Readwise API
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.27](https://github.com/rwxd/wiki/releases/tag/v1.3.27), today) - Notes on many things
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.1.6](https://github.com/rwxd/ankigengpt/releases/tag/v1.1.6), today) - 
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.3](https://github.com/rwxd/ipams/releases/tag/v1.3.3), 3 weeks ago) - Tool to query multiple IPAMs.
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.7](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.7), 1 month ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 
 ### 🔨 Latest Pull Requests I published
 
