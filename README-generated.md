@@ -6,13 +6,13 @@
 - [rwxd/best-of](https://github.com/rwxd/best-of) - best-of lets you check the runtime of program executions. (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (4 days ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 week ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/best-of](https://github.com/rwxd/best-of) ([v1.0.1](https://github.com/rwxd/best-of/releases/tag/v1.0.1), today) - best-of lets you check the runtime of program executions.
+- [rwxd/best-of](https://github.com/rwxd/best-of) ([v1.1.0](https://github.com/rwxd/best-of/releases/tag/v1.1.0), today) - best-of lets you check the runtime of program executions.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.5.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.5.0), 1 week ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.1.0](https://github.com/rwxd/pyreadwise/releases/tag/v1.1.0), 1 week ago) - Python Module to use the Readwise API
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.27](https://github.com/rwxd/wiki/releases/tag/v1.3.27), 1 week ago) - Notes on many things
