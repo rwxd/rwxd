@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.2.4](https://github.com/pdreker/fritz_exporter/releases/tag/v2.2.4), today) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/best-of](https://github.com/rwxd/best-of) ([v1.4.1](https://github.com/rwxd/best-of/releases/tag/v1.4.1), 4 days ago) - best-of lets you check the runtime of program executions.
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) ([v1.5.0](https://github.com/rwxd/wallabag2readwise/releases/tag/v1.5.0), 2 weeks ago) - Export / synchronize wallabag annotations to readwise highlights
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) ([v1.1.0](https://github.com/rwxd/pyreadwise/releases/tag/v1.1.0), 2 weeks ago) - Python Module to use the Readwise API
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.27](https://github.com/rwxd/wiki/releases/tag/v1.3.27), 2 weeks ago) - Notes on many things
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.1.6](https://github.com/rwxd/ankigengpt/releases/tag/v1.1.6), 2 weeks ago) - 
 
 ### 🔨 Latest Pull Requests I published
 
