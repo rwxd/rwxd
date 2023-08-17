@@ -4,10 +4,10 @@
 
 
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (today)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
-- [rwxd/best-of](https://github.com/rwxd/best-of) - best-of lets you check the runtime of program executions. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
