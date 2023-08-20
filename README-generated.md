@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) -  (1 day ago)
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (3 days ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (6 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
