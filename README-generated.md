@@ -4,8 +4,8 @@
 
 
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 days ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
 - [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (4 days ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (5 days ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
 
