@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 day ago)
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (2 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (1 week ago)
@@ -22,7 +22,7 @@
 
 
 - [fix: corrected model enums](https://github.com/rwxd/ankigengpt/pull/23) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
-- [feat: use different models and calculate price](https://github.com/rwxd/ankigengpt/pull/22) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
+- [feat: use different models and calculate price](https://github.com/rwxd/ankigengpt/pull/22) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 weeks ago)
 - [feat(wallabag): import readwise reader documents to wallabag](https://github.com/rwxd/wallabag2readwise/pull/81) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
 - [feat(reader): list reader documents](https://github.com/rwxd/pyreadwise/pull/60) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 month ago)
 - [fix: trying to repair poetry build workflow](https://github.com/rwxd/ankigengpt/pull/17) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 month ago)
