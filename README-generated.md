@@ -23,9 +23,9 @@
 
 - [fix: corrected model enums](https://github.com/rwxd/ankigengpt/pull/23) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 month ago)
 - [feat: use different models and calculate price](https://github.com/rwxd/ankigengpt/pull/22) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 month ago)
-- [feat(wallabag): import readwise reader documents to wallabag](https://github.com/rwxd/wallabag2readwise/pull/81) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (1 month ago)
-- [feat(reader): list reader documents](https://github.com/rwxd/pyreadwise/pull/60) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (1 month ago)
-- [fix: trying to repair poetry build workflow](https://github.com/rwxd/ankigengpt/pull/17) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 month ago)
+- [feat(wallabag): import readwise reader documents to wallabag](https://github.com/rwxd/wallabag2readwise/pull/81) on [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) (2 months ago)
+- [feat(reader): list reader documents](https://github.com/rwxd/pyreadwise/pull/60) on [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) (2 months ago)
+- [fix: trying to repair poetry build workflow](https://github.com/rwxd/ankigengpt/pull/17) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 months ago)
 
 ### 📫 How to reach me
 
