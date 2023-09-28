@@ -7,7 +7,7 @@
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 week ago)
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (2 weeks ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (2 weeks ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
