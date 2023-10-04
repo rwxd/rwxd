@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.3.0](https://github.com/pdreker/fritz_exporter/releases/tag/v2.3.0), today) - Prometheus exporter for Fritz!Box home routers
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.3.0](https://github.com/pdreker/fritz_exporter/releases/tag/v2.3.0), 1 day ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.39](https://github.com/rwxd/wiki/releases/tag/v1.3.39), 2 weeks ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.29](https://github.com/rwxd/wiki-container/releases/tag/v1.0.29), 2 weeks ago) - Container to render wiki pages
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.9](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.9), 3 weeks ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
