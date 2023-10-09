@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (5 days ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 weeks ago)
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 month ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
