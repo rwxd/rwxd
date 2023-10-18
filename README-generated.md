@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (3 days ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 month ago)
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.0.0](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.0.0), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.2.2](https://github.com/rwxd/ankigengpt/releases/tag/v1.2.2), 3 days ago) - Convert your text into flashcards for use in Anki
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.49](https://github.com/rwxd/wiki/releases/tag/v1.3.49), 1 week ago) - Notes on many things
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.3.0](https://github.com/pdreker/fritz_exporter/releases/tag/v2.3.0), 2 weeks ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.29](https://github.com/rwxd/wiki-container/releases/tag/v1.0.29), 1 month ago) - Container to render wiki pages
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) ([v1.0.9](https://github.com/rwxd/ansible-workspace/releases/tag/v1.0.9), 1 month ago) - Create a workspace for multiple tools to easier develop ansible playbooks with roles.
 
 ### 🔨 Latest Pull Requests I published
 
