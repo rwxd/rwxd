@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [docs: fixed some typos](https://github.com/akquinet/powerdns-api-proxy/pull/2) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [kobo &amp; readme](https://github.com/rwxd/ankigengpt/pull/45) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (5 days ago)
 - [fix: made source optional and non default](https://github.com/rwxd/ankigengpt/pull/43) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
 - [fix: cli command to unlock the autorestic running value](https://github.com/cupcakearmy/autorestic/pull/329) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (2 weeks ago)
 - [fix: corrected model enums](https://github.com/rwxd/ankigengpt/pull/23) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 months ago)
-- [feat: use different models and calculate price](https://github.com/rwxd/ankigengpt/pull/22) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 months ago)
 
 ### 📫 How to reach me
 
