@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [docs: fixed some typos](https://github.com/akquinet/powerdns-api-proxy/pull/2) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (3 days ago)
 - [kobo &amp; readme](https://github.com/rwxd/ankigengpt/pull/45) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 week ago)
 - [fix: made source optional and non default](https://github.com/rwxd/ankigengpt/pull/43) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
 - [fix: cli command to unlock the autorestic running value](https://github.com/cupcakearmy/autorestic/pull/329) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (3 weeks ago)
-- [fix: corrected model enums](https://github.com/rwxd/ankigengpt/pull/23) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 months ago)
 
 ### 📫 How to reach me
 
