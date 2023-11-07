@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (4 days ago)
+- [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (5 days ago)
 - [docs: fixed some typos](https://github.com/akquinet/powerdns-api-proxy/pull/2) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 week ago)
 - [kobo &amp; readme](https://github.com/rwxd/ankigengpt/pull/45) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 week ago)
 - [fix: made source optional and non default](https://github.com/rwxd/ankigengpt/pull/43) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 weeks ago)
-- [fix: cli command to unlock the autorestic running value](https://github.com/cupcakearmy/autorestic/pull/329) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (3 weeks ago)
+- [fix: cli command to unlock the autorestic running value](https://github.com/cupcakearmy/autorestic/pull/329) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (4 weeks ago)
 
 ### 📫 How to reach me
 
