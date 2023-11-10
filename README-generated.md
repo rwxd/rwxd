@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.1), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.3.0](https://github.com/rwxd/ankigengpt/releases/tag/v1.3.0), 2 weeks ago) - Convert your text into flashcards for use in Anki
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.50](https://github.com/rwxd/wiki/releases/tag/v1.3.50), 3 weeks ago) - Notes on many things
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.3.0](https://github.com/pdreker/fritz_exporter/releases/tag/v2.3.0), 1 month ago) - Prometheus exporter for Fritz!Box home routers
@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [Revert &#34;fix(cache): token authentication lookup&#34;](https://github.com/akquinet/powerdns-api-proxy/pull/5) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [Caching](https://github.com/akquinet/powerdns-api-proxy/pull/4) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 week ago)
 - [docs: fixed some typos](https://github.com/akquinet/powerdns-api-proxy/pull/2) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 week ago)
 - [kobo &amp; readme](https://github.com/rwxd/ankigengpt/pull/45) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
-- [fix: made source optional and non default](https://github.com/rwxd/ankigengpt/pull/43) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 weeks ago)
 
 ### 📫 How to reach me
 
