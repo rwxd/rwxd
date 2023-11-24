@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [use regex to include/exclude interfaces](https://github.com/wobcom/transceiver-exporter/pull/9) on [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) (today)
 - [Revert &#34;fix(cache): token authentication lookup&#34;](https://github.com/akquinet/powerdns-api-proxy/pull/5) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 weeks ago)
 - [Caching](https://github.com/akquinet/powerdns-api-proxy/pull/4) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 weeks ago)
 - [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (3 weeks ago)
 - [docs: fixed some typos](https://github.com/akquinet/powerdns-api-proxy/pull/2) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (3 weeks ago)
-- [kobo &amp; readme](https://github.com/rwxd/ankigengpt/pull/45) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (1 month ago)
 
 ### 📫 How to reach me
 
