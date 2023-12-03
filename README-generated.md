@@ -4,7 +4,7 @@
 
 
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (3 weeks ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 month ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 month ago)
