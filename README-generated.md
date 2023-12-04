@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.65](https://github.com/rwxd/wiki/releases/tag/v1.3.65), today) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), today) - Container to render wiki pages
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.64](https://github.com/rwxd/wiki/releases/tag/v1.3.64), today) - Notes on many things
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), 3 weeks ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.3.0](https://github.com/rwxd/ankigengpt/releases/tag/v1.3.0), 1 month ago) - Convert your text into flashcards for use in Anki
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([v2.3.0](https://github.com/pdreker/fritz_exporter/releases/tag/v2.3.0), 2 months ago) - Prometheus exporter for Fritz!Box home routers
