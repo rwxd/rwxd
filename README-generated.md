@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (2 weeks ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 month ago)
@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 3 days ago) - Prometheus exporter for Fritz!Box home routers
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 4 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.65](https://github.com/rwxd/wiki/releases/tag/v1.3.65), 2 weeks ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), 2 weeks ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
