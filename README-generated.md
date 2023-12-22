@@ -4,7 +4,7 @@
 
 
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
-- [rwxd/vmrss](https://github.com/rwxd/vmrss) -  (today)
+- [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (2 weeks ago)
