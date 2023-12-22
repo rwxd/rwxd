@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 5 days ago) - Prometheus exporter for Fritz!Box home routers
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 6 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.65](https://github.com/rwxd/wiki/releases/tag/v1.3.65), 2 weeks ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), 2 weeks ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
@@ -21,7 +21,7 @@
 ### 🔨 Latest Pull Requests I published
 
 
-- [use regex to include/exclude interfaces](https://github.com/wobcom/transceiver-exporter/pull/9) on [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) (3 weeks ago)
+- [use regex to include/exclude interfaces](https://github.com/wobcom/transceiver-exporter/pull/9) on [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) (4 weeks ago)
 - [Revert &#34;fix(cache): token authentication lookup&#34;](https://github.com/akquinet/powerdns-api-proxy/pull/5) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [Caching](https://github.com/akquinet/powerdns-api-proxy/pull/4) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [Add the possibility to use regex for zones](https://github.com/akquinet/powerdns-api-proxy/pull/3) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
