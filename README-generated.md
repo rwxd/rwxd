@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/vmrss](https://github.com/rwxd/vmrss) ([v1.0.1](https://github.com/rwxd/vmrss/releases/tag/v1.0.1), today) - Tool to show the memory usage of a process and its children
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 6 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.65](https://github.com/rwxd/wiki/releases/tag/v1.3.65), 2 weeks ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), 2 weeks ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) ([v1.3.0](https://github.com/rwxd/ankigengpt/releases/tag/v1.3.0), 1 month ago) - Convert your text into flashcards for use in Anki
 
 ### 🔨 Latest Pull Requests I published
 
