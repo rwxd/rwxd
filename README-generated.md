@@ -6,8 +6,8 @@
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children (5 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 weeks ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 weeks ago)
+- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
