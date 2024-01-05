@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (3 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children (1 week ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 month ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.66](https://github.com/rwxd/wiki/releases/tag/v1.3.66), today) - Notes on many things
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) ([v1.0.2](https://github.com/rwxd/vmrss/releases/tag/v1.0.2), 1 week ago) - Tool to show the memory usage of a process and its children
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 2 weeks ago) - Prometheus exporter for Fritz!Box home routers
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.65](https://github.com/rwxd/wiki/releases/tag/v1.3.65), 1 month ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), 1 month ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.2), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 
