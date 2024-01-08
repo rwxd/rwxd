@@ -4,10 +4,10 @@
 
 
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (3 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (6 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children (2 weeks ago)
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
