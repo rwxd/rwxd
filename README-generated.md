@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
-- [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.3), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.2](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.2), 1 week ago) - 
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.67](https://github.com/rwxd/wiki/releases/tag/v1.3.67), 1 week ago) - Notes on many things
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) ([v1.0.2](https://github.com/rwxd/vmrss/releases/tag/v1.0.2), 3 weeks ago) - Tool to show the memory usage of a process and its children
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.3.1](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.3.1), 1 month ago) - Prometheus exporter for Fritz!Box home routers
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.31](https://github.com/rwxd/wiki-container/releases/tag/v1.0.31), 1 month ago) - Container to render wiki pages
 
 ### 🔨 Latest Pull Requests I published
 
