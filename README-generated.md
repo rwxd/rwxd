@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [docs(config): add Flatpak config file location](https://github.com/IsmaelMartinez/teams-for-linux/pull/1075) on [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) (today)
 - [fix(goreleaser): remove signing](https://github.com/akquinet/pdnsgrep/pull/3) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (1 week ago)
 - [fix(ci): only release binary on tag pipeline](https://github.com/akquinet/pdnsgrep/pull/2) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (1 week ago)
 - [fix: trying to add cicd](https://github.com/akquinet/pdnsgrep/pull/1) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (1 week ago)
 - [use regex to include/exclude interfaces](https://github.com/wobcom/transceiver-exporter/pull/9) on [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) (1 month ago)
-- [Revert &#34;fix(cache): token authentication lookup&#34;](https://github.com/akquinet/powerdns-api-proxy/pull/5) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
 
 ### 📫 How to reach me
 
