@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client (4 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
