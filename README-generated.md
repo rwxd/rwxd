@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (6 days ago)
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client (1 week ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (2 weeks ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 weeks ago)
 
