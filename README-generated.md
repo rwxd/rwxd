@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.5), 5 days ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.6](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.6), today) - Unofficial Microsoft Teams for Linux client
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.2](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.2), 2 weeks ago) - 
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.67](https://github.com/rwxd/wiki/releases/tag/v1.3.67), 3 weeks ago) - Notes on many things
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) ([v1.0.2](https://github.com/rwxd/vmrss/releases/tag/v1.0.2), 1 month ago) - Tool to show the memory usage of a process and its children
