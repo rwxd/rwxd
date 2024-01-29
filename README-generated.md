@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client (1 week ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (3 weeks ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
