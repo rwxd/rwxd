@@ -4,10 +4,10 @@
 
 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
+- [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (today)
 - [rwxd/quirky-query](https://github.com/rwxd/quirky-query) - Playing around with websockets (4 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
