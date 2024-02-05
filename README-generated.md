@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.4](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.4), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.1.5](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.1.5), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.10](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.10), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.2](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.2), 4 weeks ago) - 
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.67](https://github.com/rwxd/wiki/releases/tag/v1.3.67), 1 month ago) - Notes on many things
