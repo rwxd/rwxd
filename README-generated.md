@@ -21,11 +21,11 @@
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat: metrics authentication &amp; disable metrics, index, api docs](https://github.com/akquinet/powerdns-api-proxy/pull/34) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [chore: ran go mod tidy](https://github.com/akquinet/pdnsgrep/pull/11) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (today)
 - [chore: add renovate config](https://github.com/akquinet/pdnsgrep/pull/4) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (today)
 - [docs(config): add Flatpak config file location](https://github.com/IsmaelMartinez/teams-for-linux/pull/1075) on [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) (2 weeks ago)
 - [fix(goreleaser): remove signing](https://github.com/akquinet/pdnsgrep/pull/3) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (4 weeks ago)
-- [fix(ci): only release binary on tag pipeline](https://github.com/akquinet/pdnsgrep/pull/2) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (4 weeks ago)
 
 ### 📫 How to reach me
 
