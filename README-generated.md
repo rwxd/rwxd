@@ -4,9 +4,9 @@
 
 
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (today)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (1 day ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 day ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (1 day ago)
 
 ### 🔭 Latest releases of projects I've contributed to
