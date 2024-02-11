@@ -4,15 +4,15 @@
 
 
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (1 day ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (1 day ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.0.7](https://github.com/rwxd/notify-me/releases/tag/v1.0.7), today) - 
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.0.9](https://github.com/rwxd/notify-me/releases/tag/v1.0.9), today) - 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 2 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 4 days ago) - Domain Availability Checker with Redis Backend.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.4](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.4), 5 days ago) - 
