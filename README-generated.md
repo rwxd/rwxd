@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.1.1](https://github.com/rwxd/notify-me/releases/tag/v1.1.1), 1 day ago) - 
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.1.4](https://github.com/rwxd/notify-me/releases/tag/v1.1.4), today) - 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 3 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 5 days ago) - Domain Availability Checker with Redis Backend.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.4](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.4), 6 days ago) - 
