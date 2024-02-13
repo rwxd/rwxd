@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (1 day ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 days ago)
-- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (3 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (3 days ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
