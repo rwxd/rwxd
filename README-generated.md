@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.11](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.11), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.1.5](https://github.com/rwxd/notify-me/releases/tag/v1.1.5), 2 days ago) - 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 5 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 1 week ago) - Domain Availability Checker with Redis Backend.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.4](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.4), 1 week ago) - 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.10](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.10), 1 week ago) - Unofficial Microsoft Teams for Linux client
 
 ### 🔨 Latest Pull Requests I published
 
