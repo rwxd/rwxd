@@ -3,9 +3,9 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (2 days ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (3 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (5 days ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (5 days ago)
 
