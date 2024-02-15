@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (today)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (today)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (2 days ago)
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (3 days ago)
-- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (5 days ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (5 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.1.7](https://github.com/rwxd/notify-me/releases/tag/v1.1.7), today) - 
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.3](https://github.com/rwxd/pulla/releases/tag/v1.1.3), today) - Backup personal GitHub and starred repositories to the local file system.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.11](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.11), 1 day ago) - Unofficial Microsoft Teams for Linux client
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.1.5](https://github.com/rwxd/notify-me/releases/tag/v1.1.5), 3 days ago) - 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 6 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 1 week ago) - Domain Availability Checker with Redis Backend.
 
