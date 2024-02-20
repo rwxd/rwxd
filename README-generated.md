@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.12](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.12), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 3 days ago) - 
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.3](https://github.com/rwxd/pulla/releases/tag/v1.1.3), 5 days ago) - Backup personal GitHub and starred repositories to the local file system.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.11](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.11), 6 days ago) - Unofficial Microsoft Teams for Linux client
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 1 week ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 1 week ago) - Domain Availability Checker with Redis Backend.
 
