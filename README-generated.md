@@ -3,19 +3,19 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (today)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (5 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 week ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.3), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.12](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.12), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 5 days ago) - 
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.3](https://github.com/rwxd/pulla/releases/tag/v1.1.3), 1 week ago) - Backup personal GitHub and starred repositories to the local file system.
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.2), 1 week ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 2 weeks ago) - Domain Availability Checker with Redis Backend.
 
 ### 🔨 Latest Pull Requests I published
