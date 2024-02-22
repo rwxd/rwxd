@@ -3,10 +3,10 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (today)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (5 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
@@ -18,7 +18,7 @@
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.12](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.12), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 5 days ago) - Small command line tool to notify myself through various services.
 
-### 🔨 Latest Pull Requests I published
+### 🔨 Latest Pull Requests I've published
 
 
 - [fix: corrected fastapi metric exporter](https://github.com/akquinet/powerdns-api-proxy/pull/37) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 week ago)
