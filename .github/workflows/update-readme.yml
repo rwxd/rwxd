@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
-          writeTo: "README-generated.md"
+          writeTo: "README.md"
 
       - uses: actions/upload-artifact@v1
         with:
