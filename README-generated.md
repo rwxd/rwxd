@@ -5,18 +5,18 @@
 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (today)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) -  (5 days ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.5](https://github.com/rwxd/ipams/releases/tag/v1.3.5), today) - Tool to query multiple IPAMs.
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.5](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.5), today) - 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.3), today) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.12](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.12), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 5 days ago) - 
-- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.3](https://github.com/rwxd/pulla/releases/tag/v1.1.3), 1 week ago) - Backup personal GitHub and starred repositories to the local file system.
-- [rwxd/new-newt](https://github.com/rwxd/new-newt) ([v0.0.10](https://github.com/rwxd/new-newt/releases/tag/v0.0.10), 2 weeks ago) - Domain Availability Checker with Redis Backend.
 
 ### 🔨 Latest Pull Requests I published
 
