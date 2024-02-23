@@ -3,17 +3,17 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 day ago)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 day ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (6 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.7](https://github.com/rwxd/ipams/releases/tag/v1.3.7), today) - Tool to query multiple IPAMs.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.6](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.6), today) - 
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.6](https://github.com/rwxd/ipams/releases/tag/v1.3.6), 1 day ago) - Tool to query multiple IPAMs.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.3), 1 day ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.12](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.12), 3 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 6 days ago) - Small command line tool to notify myself through various services.
