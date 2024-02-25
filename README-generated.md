@@ -6,8 +6,8 @@
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (today)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (2 days ago)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
