@@ -4,19 +4,19 @@
 
 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) -  (1 week ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.68](https://github.com/rwxd/wiki/releases/tag/v1.3.68), today) - Notes on many things
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.13](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.13), today) - Unofficial Microsoft Teams for Linux client
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 6 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.8](https://github.com/rwxd/ipams/releases/tag/v1.3.8), 1 week ago) - Tool to query multiple IPAMs.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.6](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.6), 1 week ago) - 
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.0](https://github.com/rwxd/notify-me/releases/tag/v1.2.0), 2 weeks ago) - Small command line tool to notify myself through various services.
 
 ### 🔨 Latest Pull Requests I've published
 
