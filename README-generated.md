@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 day ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 day ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 week ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
