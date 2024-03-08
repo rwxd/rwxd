@@ -4,10 +4,10 @@
 
 
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 days ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (2 days ago)
 - [rwxd/rs-domain-check](https://github.com/rwxd/rs-domain-check) -  (3 days ago)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
