@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.4.0](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.4.0), today) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 3 days ago) - Container to render wiki pages
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.68](https://github.com/rwxd/wiki/releases/tag/v1.3.68), 5 days ago) - Notes on many things
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.13](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.13), 5 days ago) - Unofficial Microsoft Teams for Linux client
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 1 week ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.8](https://github.com/rwxd/ipams/releases/tag/v1.3.8), 2 weeks ago) - Tool to query multiple IPAMs.
 
 ### 🔨 Latest Pull Requests I've published
 
