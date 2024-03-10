@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.4.2](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.4.2), today) - Prometheus exporter for Fritz!Box home routers
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.4.3](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.4.3), today) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 4 days ago) - Container to render wiki pages
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.68](https://github.com/rwxd/wiki/releases/tag/v1.3.68), 6 days ago) - Notes on many things
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.13](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.13), 6 days ago) - Unofficial Microsoft Teams for Linux client
