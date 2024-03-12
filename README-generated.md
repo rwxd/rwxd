@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [fix(unlock cmd): ignore process if its the current id](https://github.com/cupcakearmy/autorestic/pull/360) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (today)
 - [fix: removed post with errors](https://github.com/rwxd/shitops/pull/7) on [rwxd/shitops](https://github.com/rwxd/shitops) (6 days ago)
 - [fix: corrected fastapi metric exporter](https://github.com/akquinet/powerdns-api-proxy/pull/37) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [feat(metrics): use basic auth instead of api token](https://github.com/akquinet/powerdns-api-proxy/pull/36) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [feat: metrics authentication &amp; disable metrics, index, api docs](https://github.com/akquinet/powerdns-api-proxy/pull/34) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
-- [chore: ran go mod tidy](https://github.com/akquinet/pdnsgrep/pull/11) on [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) (1 month ago)
