@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.5.0](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.5.0), today) - Prometheus exporter for Fritz!Box home routers
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.1](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.1), today) - Config driven, easy backup cli for restic.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.14](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.14), 2 days ago) - Unofficial Microsoft Teams for Linux client
-- [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.4.3](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.4.3), 3 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 1 week ago) - Container to render wiki pages
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.68](https://github.com/rwxd/wiki/releases/tag/v1.3.68), 1 week ago) - Notes on many things
 
