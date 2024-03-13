@@ -3,16 +3,16 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (1 day ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (5 days ago)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (5 days ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.0](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.0), 1 day ago) - Config driven, easy backup cli for restic.
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.1](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.1), today) - Config driven, easy backup cli for restic.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.14](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.14), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) ([fritzexporter-v2.4.3](https://github.com/pdreker/fritz_exporter/releases/tag/fritzexporter-v2.4.3), 3 days ago) - Prometheus exporter for Fritz!Box home routers
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 1 week ago) - Container to render wiki pages
