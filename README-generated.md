@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.69](https://github.com/rwxd/wiki/releases/tag/v1.3.69), today) - Notes on many things
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), today) - Notes on many things
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.15](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.15), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.1](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.1), 1 week ago) - Config driven, easy backup cli for restic.
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 2 weeks ago) - Container to render wiki pages
