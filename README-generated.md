@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), today) - Config driven, easy backup cli for restic.
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 3 days ago) - Notes on many things
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.15](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.15), 5 days ago) - Unofficial Microsoft Teams for Linux client
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.1](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.1), 2 weeks ago) - Config driven, easy backup cli for restic.
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 3 weeks ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 
