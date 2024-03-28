@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (3 days ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (2 weeks ago)
@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 2 days ago) - Notes on many things
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.15](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.15), 4 days ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 3 days ago) - Notes on many things
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.15](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.15), 5 days ago) - Unofficial Microsoft Teams for Linux client
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.1](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.1), 2 weeks ago) - Config driven, easy backup cli for restic.
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 3 weeks ago) - Container to render wiki pages
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 4 weeks ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 
 ### 🔨 Latest Pull Requests I've published
 
