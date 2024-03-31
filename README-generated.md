@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (today)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 
 ### 🔭 Latest releases of projects I've contributed to
 
