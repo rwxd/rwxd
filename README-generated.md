@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (5 days ago)
+- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 day ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (6 days ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.16](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.16), 2 days ago) - Unofficial Microsoft Teams for Linux client
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), 2 days ago) - Config driven, easy backup cli for restic.
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 5 days ago) - Notes on many things
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.16](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.16), 3 days ago) - Unofficial Microsoft Teams for Linux client
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), 3 days ago) - Config driven, easy backup cli for restic.
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 6 days ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 3 weeks ago) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.6](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.6), 1 month ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 
