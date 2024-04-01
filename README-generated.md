@@ -3,19 +3,19 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (today)
-- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (today)
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (today)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 day ago)
+- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (1 day ago)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 day ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.17](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.17), today) - Unofficial Microsoft Teams for Linux client
-- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.1](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.1), today) - Ansible role to install notify-me
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), 3 days ago) - Config driven, easy backup cli for restic.
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 6 days ago) - Notes on many things
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.17](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.17), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.1](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.1), 1 day ago) - Ansible role to install notify-me
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), 4 days ago) - Config driven, easy backup cli for restic.
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.71](https://github.com/rwxd/wiki/releases/tag/v1.3.71), 1 week ago) - Notes on many things
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.32](https://github.com/rwxd/wiki-container/releases/tag/v1.0.32), 3 weeks ago) - Container to render wiki pages
 
 ### 🔨 Latest Pull Requests I've published
