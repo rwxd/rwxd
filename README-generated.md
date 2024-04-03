@@ -4,10 +4,10 @@
 
 
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
+- [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (3 days ago)
-- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (3 days ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (3 days ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (3 days ago)
+- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (3 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
