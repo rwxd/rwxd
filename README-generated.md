@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.20](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.20), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.21](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.21), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 2 days ago) - Small command line tool to notify myself through various services.
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.1](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.1), 3 days ago) - Oxidized prometheus exporter to expose device backup metrics
 - [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.1](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.1), 1 week ago) - Ansible role to install notify-me
