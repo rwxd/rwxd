@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [Fixes #15640: add identifier field to search index of l2vpn](https://github.com/netbox-community/netbox/pull/15673) on [netbox-community/netbox](https://github.com/netbox-community/netbox) (today)
 - [fix(unlock cmd): ignore process if its the current id](https://github.com/cupcakearmy/autorestic/pull/360) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (4 weeks ago)
 - [fix: removed post with errors](https://github.com/rwxd/shitops/pull/7) on [rwxd/shitops](https://github.com/rwxd/shitops) (1 month ago)
 - [fix: corrected fastapi metric exporter](https://github.com/akquinet/powerdns-api-proxy/pull/37) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
 - [feat(metrics): use basic auth instead of api token](https://github.com/akquinet/powerdns-api-proxy/pull/36) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
-- [feat: metrics authentication &amp; disable metrics, index, api docs](https://github.com/akquinet/powerdns-api-proxy/pull/34) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
