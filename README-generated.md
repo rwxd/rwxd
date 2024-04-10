@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (5 days ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (5 days ago)
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (1 week ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), today) - Search through PowerDNS records on the cli
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.21](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.21), 3 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 5 days ago) - Small command line tool to notify myself through various services.
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.1](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.1), 6 days ago) - Oxidized prometheus exporter to expose device backup metrics
 - [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.1](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.1), 1 week ago) - Ansible role to install notify-me
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.2](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.2), 1 week ago) - Config driven, easy backup cli for restic.
 
 ### 🔨 Latest Pull Requests I've published
 
