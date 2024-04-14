@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.25](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.25), today) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.26](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.26), today) - Unofficial Microsoft Teams for Linux client
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), 4 days ago) - Search through PowerDNS records on the cli
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 1 week ago) - Small command line tool to notify myself through various services.
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.1](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.1), 1 week ago) - Oxidized prometheus exporter to expose device backup metrics
