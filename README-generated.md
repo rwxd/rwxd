@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (1 day ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (3 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (5 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
-- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
