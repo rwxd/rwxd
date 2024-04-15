@@ -16,7 +16,7 @@
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 1 day ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), 5 days ago) - Search through PowerDNS records on the cli
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 1 week ago) - Small command line tool to notify myself through various services.
-- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.1](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.1), 1 week ago) - Oxidized prometheus exporter to expose device backup metrics
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.5](https://github.com/netbox-community/netbox/releases/tag/v3.7.5), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
 ### 🔨 Latest Pull Requests I've published
 
