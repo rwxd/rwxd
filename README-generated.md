@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (today)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (2 days ago)
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (4 days ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (6 days ago)
+- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (1 day ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (3 days ago)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (5 days ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.27](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.27), 1 day ago) - Unofficial Microsoft Teams for Linux client
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 2 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), 6 days ago) - Search through PowerDNS records on the cli
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.27](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.27), 2 days ago) - Unofficial Microsoft Teams for Linux client
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 3 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), 1 week ago) - Search through PowerDNS records on the cli
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 1 week ago) - Small command line tool to notify myself through various services.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.5](https://github.com/netbox-community/netbox/releases/tag/v3.7.5), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
