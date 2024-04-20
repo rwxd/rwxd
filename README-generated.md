@@ -3,17 +3,17 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
-- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (3 days ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (4 days ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 day ago)
+- [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (4 days ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (5 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - This is an api proxy for powerdns implementing multiple tokens and fine access control. (6 days ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.28](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.28), 2 days ago) - Unofficial Microsoft Teams for Linux client
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 5 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.28](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.28), 3 days ago) - Unofficial Microsoft Teams for Linux client
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 6 days ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.7](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.7), 1 week ago) - Search through PowerDNS records on the cli
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.2](https://github.com/rwxd/notify-me/releases/tag/v1.2.2), 2 weeks ago) - Small command line tool to notify myself through various services.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.5](https://github.com/netbox-community/netbox/releases/tag/v3.7.5), 2 weeks ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
