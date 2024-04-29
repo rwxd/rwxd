@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.32](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.32), today) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.33](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.33), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.5](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.5), 3 days ago) - Ansible Role to generate subuid &amp; subgid
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0-beta2](https://github.com/netbox-community/netbox/releases/tag/v4.0-beta2), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 2 weeks ago) - This is an api proxy for powerdns implementing multiple tokens and fine access control.
