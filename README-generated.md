@@ -12,17 +12,17 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.1.0](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.1.0), today) - Ansible Role to generate subuid &amp; subgid
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.7](https://github.com/netbox-community/netbox/releases/tag/v3.7.7), 1 day ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.34](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.34), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.72](https://github.com/rwxd/wiki/releases/tag/v1.3.72), 3 days ago) - Notes on many things
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.0.5](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.0.5), 6 days ago) - Ansible Role to generate subuid &amp; subgid
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.7](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.7), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 
 ### 🔨 Latest Pull Requests I've published
 
 
+- [Fix](https://github.com/rwxd/ansible-role-subuid_subgid/pull/73) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (today)
 - [fix(cicd): update workflow](https://github.com/rwxd/ansible-role-subuid_subgid/pull/72) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (6 days ago)
 - [Fixes #15640: add identifier field to search index of l2vpn](https://github.com/netbox-community/netbox/pull/15673) on [netbox-community/netbox](https://github.com/netbox-community/netbox) (3 weeks ago)
 - [fix(unlock cmd): ignore process if its the current id](https://github.com/cupcakearmy/autorestic/pull/360) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (1 month ago)
 - [fix: removed post with errors](https://github.com/rwxd/shitops/pull/7) on [rwxd/shitops](https://github.com/rwxd/shitops) (1 month ago)
-- [fix: corrected fastapi metric exporter](https://github.com/akquinet/powerdns-api-proxy/pull/37) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
