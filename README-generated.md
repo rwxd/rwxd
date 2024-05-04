@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.36](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.36), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.37](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.37), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.1.0](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.1.0), 2 days ago) - Ansible Role to generate subuid &amp; subgid
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.7](https://github.com/netbox-community/netbox/releases/tag/v3.7.7), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.72](https://github.com/rwxd/wiki/releases/tag/v1.3.72), 5 days ago) - Notes on many things
