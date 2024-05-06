@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.8](https://github.com/netbox-community/netbox/releases/tag/v3.7.8), today) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.38](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.38), today) - Unofficial Microsoft Teams for Linux client
 - [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) ([v1.5.0](https://github.com/wobcom/transceiver-exporter/releases/tag/v1.5.0), today) - Prometheus exporter for Optical Transeiver OAM data
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.1.0](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.1.0), 4 days ago) - Ansible Role to generate subuid &amp; subgid
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v3.7.7](https://github.com/netbox-community/netbox/releases/tag/v3.7.7), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.72](https://github.com/rwxd/wiki/releases/tag/v1.3.72), 1 week ago) - Notes on many things
 
 ### 🔨 Latest Pull Requests I've published
