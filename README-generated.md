@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (today)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (6 days ago)
+- [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) - Ansible Role to generate subuid &amp; subgid (1 day ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 weeks ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 weeks ago)
@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.1](https://github.com/netbox-community/netbox/releases/tag/v4.0.1), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.39](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.39), 4 days ago) - Unofficial Microsoft Teams for Linux client
-- [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) ([v1.5.0](https://github.com/wobcom/transceiver-exporter/releases/tag/v1.5.0), 5 days ago) - Prometheus exporter for Optical Transeiver OAM data
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.1](https://github.com/netbox-community/netbox/releases/tag/v4.0.1), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.4.39](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.4.39), 5 days ago) - Unofficial Microsoft Teams for Linux client
+- [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) ([v1.5.0](https://github.com/wobcom/transceiver-exporter/releases/tag/v1.5.0), 6 days ago) - Prometheus exporter for Optical Transeiver OAM data
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.1.0](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.1.0), 1 week ago) - Ansible Role to generate subuid &amp; subgid
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.72](https://github.com/rwxd/wiki/releases/tag/v1.3.72), 1 week ago) - Notes on many things
 
