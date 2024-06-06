@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.5](https://github.com/netbox-community/netbox/releases/tag/v4.0.5), today) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.5.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.5.3), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.8](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.8), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.3](https://github.com/netbox-community/netbox/releases/tag/v4.0.3), 2 weeks ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) ([v1.5.0](https://github.com/wobcom/transceiver-exporter/releases/tag/v1.5.0), 1 month ago) - Prometheus exporter for Optical Transeiver OAM data
 - [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) ([v1.1.0](https://github.com/rwxd/ansible-role-subuid_subgid/releases/tag/v1.1.0), 1 month ago) - Ansible Role to generate subuid &amp; subgid
 
