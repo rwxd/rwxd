@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.0), 2 days ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.1), today) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.5](https://github.com/netbox-community/netbox/releases/tag/v4.0.5), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.8](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.8), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [wobcom/transceiver-exporter](https://github.com/wobcom/transceiver-exporter) ([v1.5.0](https://github.com/wobcom/transceiver-exporter/releases/tag/v1.5.0), 1 month ago) - Prometheus exporter for Optical Transeiver OAM data
