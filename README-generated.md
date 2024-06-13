@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [Docs: corrected gpg signing key for newer rhel systems](https://github.com/elastic/beats/pull/39899) on [elastic/beats](https://github.com/elastic/beats) (today)
 - [Fix](https://github.com/rwxd/ansible-role-subuid_subgid/pull/73) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (1 month ago)
 - [fix(cicd): update workflow](https://github.com/rwxd/ansible-role-subuid_subgid/pull/72) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (1 month ago)
 - [Fixes #15640: add identifier field to search index of l2vpn](https://github.com/netbox-community/netbox/pull/15673) on [netbox-community/netbox](https://github.com/netbox-community/netbox) (2 months ago)
 - [fix(unlock cmd): ignore process if its the current id](https://github.com/cupcakearmy/autorestic/pull/360) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (3 months ago)
-- [fix: removed post with errors](https://github.com/rwxd/shitops/pull/7) on [rwxd/shitops](https://github.com/rwxd/shitops) (3 months ago)
