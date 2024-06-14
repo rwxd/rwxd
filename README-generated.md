@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.1), today) - Unofficial Microsoft Teams for Linux client
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.11](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.11), 1 day ago) - Search through PowerDNS records on the cli
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.9](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.9), 1 day ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.10](https://github.com/rwxd/ipams/releases/tag/v1.3.10), 2 days ago) - Tool to query multiple IPAMs.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.0), 5 days ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.5](https://github.com/netbox-community/netbox/releases/tag/v4.0.5), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
 ### 🔨 Latest Pull Requests I've published
