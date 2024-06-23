@@ -3,17 +3,17 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 days ago)
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash  (4 days ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (5 days ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 days ago)
+- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash  (5 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (6 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 week ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.3), 1 day ago) - Unofficial Microsoft Teams for Linux client
-- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.4](https://github.com/rwxd/pulla/releases/tag/v1.1.4), 2 days ago) - Backup personal GitHub and starred repositories to the local file system.
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.3), 2 days ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.4](https://github.com/rwxd/pulla/releases/tag/v1.1.4), 3 days ago) - Backup personal GitHub and starred repositories to the local file system.
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.22](https://github.com/elastic/beats/releases/tag/v7.17.22), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.11](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.11), 1 week ago) - Search through PowerDNS records on the cli
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.9](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.9), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
