@@ -7,12 +7,12 @@
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash  (2 weeks ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (2 weeks ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (2 weeks ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.5), today) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.5), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.6](https://github.com/netbox-community/netbox/releases/tag/v4.0.6), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.4](https://github.com/rwxd/pulla/releases/tag/v1.1.4), 1 week ago) - Backup personal GitHub and starred repositories to the local file system.
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.22](https://github.com/elastic/beats/releases/tag/v7.17.22), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
