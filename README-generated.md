@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.14.2](https://github.com/elastic/beats/releases/tag/v8.14.2), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.7.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.7.5), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.6](https://github.com/netbox-community/netbox/releases/tag/v4.0.6), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.4](https://github.com/rwxd/pulla/releases/tag/v1.1.4), 2 weeks ago) - Backup personal GitHub and starred repositories to the local file system.
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.22](https://github.com/elastic/beats/releases/tag/v7.17.22), 3 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.11](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.11), 3 weeks ago) - Search through PowerDNS records on the cli
 
 ### 🔨 Latest Pull Requests I've published
