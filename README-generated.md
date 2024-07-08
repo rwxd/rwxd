@@ -7,7 +7,7 @@
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash  (2 weeks ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 weeks ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (3 weeks ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
