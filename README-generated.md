@@ -4,19 +4,19 @@
 
 
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 weeks ago)
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash  (3 weeks ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 weeks ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.10](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.10), today) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.12](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.12), today) - Search through PowerDNS records on the cli
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.7](https://github.com/netbox-community/netbox/releases/tag/v4.0.7), 1 day ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.8.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.8.0), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [elastic/beats](https://github.com/elastic/beats) ([v8.14.2](https://github.com/elastic/beats/releases/tag/v8.14.2), 6 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
-- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.4](https://github.com/rwxd/pulla/releases/tag/v1.1.4), 2 weeks ago) - Backup personal GitHub and starred repositories to the local file system.
 
 ### 🔨 Latest Pull Requests I've published
 
