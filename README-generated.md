@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.8.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.8.1), 1 week ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.0), today) - Unofficial Microsoft Teams for Linux client
 - [elastic/beats](https://github.com/elastic/beats) ([v8.14.3](https://github.com/elastic/beats/releases/tag/v8.14.3), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.12](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.12), 1 week ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.5](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.5), 1 week ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
