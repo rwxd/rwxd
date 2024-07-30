@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (6 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (2 weeks ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (2 weeks ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (2 weeks ago)
@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.8](https://github.com/netbox-community/netbox/releases/tag/v4.0.8), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.11](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.11), 6 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.8](https://github.com/netbox-community/netbox/releases/tag/v4.0.8), 4 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.11](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.11), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.0), 1 week ago) - Unofficial Microsoft Teams for Linux client
 - [elastic/beats](https://github.com/elastic/beats) ([v8.14.3](https://github.com/elastic/beats/releases/tag/v8.14.3), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.12](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.12), 2 weeks ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
