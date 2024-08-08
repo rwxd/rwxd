@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.1-beta1), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.1-beta1), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.23](https://github.com/elastic/beats/releases/tag/v7.17.23), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.11](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.11), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.0), 2 weeks ago) - Unofficial Microsoft Teams for Linux client
