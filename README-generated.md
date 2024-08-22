@@ -4,7 +4,7 @@
 
 
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 week ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (4 weeks ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 month ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (1 month ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (1 month ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 months ago)
@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.1), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.1), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.9](https://github.com/netbox-community/netbox/releases/tag/v4.0.9), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [elastic/beats](https://github.com/elastic/beats) ([v8.15.0](https://github.com/elastic/beats/releases/tag/v8.15.0), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.11](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.11), 4 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
+- [elastic/beats](https://github.com/elastic/beats) ([v8.15.0](https://github.com/elastic/beats/releases/tag/v8.15.0), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.11](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.11), 1 month ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.12](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.12), 1 month ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 
 ### 🔨 Latest Pull Requests I've published
