@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.5), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.33](https://github.com/rwxd/wiki-container/releases/tag/v1.0.33), today) - Container to render wiki pages
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.12](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.12), today) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.4](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.4), today) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.9](https://github.com/netbox-community/netbox/releases/tag/v4.0.9), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [elastic/beats](https://github.com/elastic/beats) ([v8.15.0](https://github.com/elastic/beats/releases/tag/v8.15.0), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 
