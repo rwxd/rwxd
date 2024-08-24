@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (1 day ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (1 day ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 day ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 day ago)
-- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [updates fork](https://github.com/rwxd/hugo-theme-hello-friend-ng/pull/2) on [rwxd/hugo-theme-hello-friend-ng](https://github.com/rwxd/hugo-theme-hello-friend-ng) (today)
 - [Docs: corrected gpg signing key for newer rhel systems](https://github.com/elastic/beats/pull/39899) on [elastic/beats](https://github.com/elastic/beats) (2 months ago)
 - [Fix](https://github.com/rwxd/ansible-role-subuid_subgid/pull/73) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (3 months ago)
 - [fix(cicd): update workflow](https://github.com/rwxd/ansible-role-subuid_subgid/pull/72) on [rwxd/ansible-role-subuid_subgid](https://github.com/rwxd/ansible-role-subuid_subgid) (4 months ago)
 - [Fixes #15640: add identifier field to search index of l2vpn](https://github.com/netbox-community/netbox/pull/15673) on [netbox-community/netbox](https://github.com/netbox-community/netbox) (4 months ago)
-- [fix(unlock cmd): ignore process if its the current id](https://github.com/cupcakearmy/autorestic/pull/360) on [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) (5 months ago)
