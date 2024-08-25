@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (today)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (today)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 day ago)
-- [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (2 days ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (2 days ago)
+- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) - Ansible role to install notify-me (today)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (today)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (today)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (today)
+- [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (today)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.73](https://github.com/rwxd/wiki/releases/tag/v1.3.73), today) - Notes on many things
+- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.2](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.2), today) - Ansible role to install notify-me
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.4](https://github.com/rwxd/notify-me/releases/tag/v1.2.4), today) - Small command line tool to notify myself through various services.
+- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.5](https://github.com/rwxd/pulla/releases/tag/v1.1.5), today) - Backup personal GitHub and starred repositories to the local file system.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.13](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.13), today) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.11](https://github.com/rwxd/ipams/releases/tag/v1.3.11), today) - Tool to query multiple IPAMs.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.5), 2 days ago) - Unofficial Microsoft Teams for Linux client
-- [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.33](https://github.com/rwxd/wiki-container/releases/tag/v1.0.33), 2 days ago) - Container to render wiki pages
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.9](https://github.com/netbox-community/netbox/releases/tag/v4.0.9), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
 ### 🔨 Latest Pull Requests I've published
 
