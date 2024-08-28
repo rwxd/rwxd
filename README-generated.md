@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.3](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.3), today) - Config driven, easy backup cli for restic.
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.3](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.3), 1 day ago) - Oxidized prometheus exporter to expose device backup metrics
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.73](https://github.com/rwxd/wiki/releases/tag/v1.3.73), 3 days ago) - Notes on many things
 - [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.2](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.2), 3 days ago) - Ansible role to install notify-me
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.4](https://github.com/rwxd/notify-me/releases/tag/v1.2.4), 3 days ago) - Small command line tool to notify myself through various services.
-- [rwxd/pulla](https://github.com/rwxd/pulla) ([v1.1.5](https://github.com/rwxd/pulla/releases/tag/v1.1.5), 3 days ago) - Backup personal GitHub and starred repositories to the local file system.
 
 ### 🔨 Latest Pull Requests I've published
 
