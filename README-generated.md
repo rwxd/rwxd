@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.10](https://github.com/netbox-community/netbox/releases/tag/v4.0.10), today) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.6](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.6), 1 day ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.3](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.3), 1 day ago) - Config driven, easy backup cli for restic.
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) ([v1.0.3](https://github.com/akquinet/oxidized-exporter/releases/tag/v1.0.3), 2 days ago) - Oxidized prometheus exporter to expose device backup metrics
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.73](https://github.com/rwxd/wiki/releases/tag/v1.3.73), 4 days ago) - Notes on many things
-- [rwxd/ansible-role-notify_me](https://github.com/rwxd/ansible-role-notify_me) ([v1.0.2](https://github.com/rwxd/ansible-role-notify_me/releases/tag/v1.0.2), 4 days ago) - Ansible role to install notify-me
 
 ### 🔨 Latest Pull Requests I've published
 
