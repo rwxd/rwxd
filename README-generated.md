@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.9.6](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.9.6), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.0), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.74](https://github.com/rwxd/wiki/releases/tag/v1.3.74), 4 days ago) - Notes on many things
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.0.10](https://github.com/netbox-community/netbox/releases/tag/v4.0.10), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.6](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.6), 6 days ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
