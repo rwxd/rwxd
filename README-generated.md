@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (4 days ago)
-- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (6 days ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (5 days ago)
+- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (1 week ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (1 week ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 week ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.0](https://github.com/netbox-community/netbox/releases/tag/v4.1.0), today) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.0), today) - Unofficial Microsoft Teams for Linux client
-- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.74](https://github.com/rwxd/wiki/releases/tag/v1.3.74), 4 days ago) - Notes on many things
-- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.6](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.6), 6 days ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.3](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.3), 6 days ago) - Config driven, easy backup cli for restic.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.0](https://github.com/netbox-community/netbox/releases/tag/v4.1.0), 1 day ago) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.0), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.74](https://github.com/rwxd/wiki/releases/tag/v1.3.74), 5 days ago) - Notes on many things
+- [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.6](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.6), 1 week ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) ([v1.8.3](https://github.com/cupcakearmy/autorestic/releases/tag/v1.8.3), 1 week ago) - Config driven, easy backup cli for restic.
 
 ### 🔨 Latest Pull Requests I've published
 
