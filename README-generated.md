@@ -6,15 +6,15 @@
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (2 weeks ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (2 weeks ago)
-- [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (2 weeks ago)
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 weeks ago)
+- [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (3 weeks ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.1](https://github.com/netbox-community/netbox/releases/tag/v4.1.1), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.2), 4 days ago) - Unofficial Microsoft Teams for Linux client
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.24](https://github.com/elastic/beats/releases/tag/v7.17.24), 4 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.1](https://github.com/netbox-community/netbox/releases/tag/v4.1.1), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.2), 5 days ago) - Unofficial Microsoft Teams for Linux client
+- [elastic/beats](https://github.com/elastic/beats) ([v7.17.24](https://github.com/elastic/beats/releases/tag/v7.17.24), 5 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.74](https://github.com/rwxd/wiki/releases/tag/v1.3.74), 2 weeks ago) - Notes on many things
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) ([v1.0.6](https://github.com/rwxd/tcpbutcher/releases/tag/v1.0.6), 2 weeks ago) - Tcpkill clone in Go to butcher TCP sessions with ease.
 
