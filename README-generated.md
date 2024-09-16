@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (2 weeks ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (2 weeks ago)
-- [rwxd/civitai-search](https://github.com/rwxd/civitai-search) - Store civitai prompts in a sqlite database to search (3 weeks ago)
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 weeks ago)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (today)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (2 weeks ago)
 - [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (2 weeks ago)
 - [fix: #1 - use differend endpoint if only default group](https://github.com/akquinet/oxidized-exporter/pull/2) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (2 weeks ago)
 - [updates fork](https://github.com/rwxd/hugo-theme-hello-friend-ng/pull/2) on [rwxd/hugo-theme-hello-friend-ng](https://github.com/rwxd/hugo-theme-hello-friend-ng) (3 weeks ago)
-- [Docs: corrected gpg signing key for newer rhel systems](https://github.com/elastic/beats/pull/39899) on [elastic/beats](https://github.com/elastic/beats) (3 months ago)
