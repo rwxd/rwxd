@@ -7,7 +7,7 @@
 - [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 weeks ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (2 weeks ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (2 weeks ago)
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (3 weeks ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
