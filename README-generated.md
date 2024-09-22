@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
+- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 days ago)
+- [rwxd/wiki](https://github.com/rwxd/wiki) - Notes on many things (2 days ago)
 - [rwxd/tcpbutcher](https://github.com/rwxd/tcpbutcher) - Tcpkill clone in Go to butcher TCP sessions with ease. (3 weeks ago)
 - [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) - Oxidized prometheus exporter to expose device backup metrics (3 weeks ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (today)
 - [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (6 days ago)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 weeks ago)
 - [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 weeks ago)
 - [fix: #1 - use differend endpoint if only default group](https://github.com/akquinet/oxidized-exporter/pull/2) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 weeks ago)
-- [updates fork](https://github.com/rwxd/hugo-theme-hello-friend-ng/pull/2) on [rwxd/hugo-theme-hello-friend-ng](https://github.com/rwxd/hugo-theme-hello-friend-ng) (4 weeks ago)
