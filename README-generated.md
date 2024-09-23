@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.10.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.10.3), today) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.0), today) - Unofficial Microsoft Teams for Linux client
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.75](https://github.com/rwxd/wiki/releases/tag/v1.3.75), 3 days ago) - Notes on many things
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.1](https://github.com/netbox-community/netbox/releases/tag/v4.1.1), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.24](https://github.com/elastic/beats/releases/tag/v7.17.24), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
