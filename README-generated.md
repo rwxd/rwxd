@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.15.2](https://github.com/elastic/beats/releases/tag/v8.15.2), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) ([v1.0.34](https://github.com/rwxd/wiki-container/releases/tag/v1.0.34), 1 day ago) - Container to render wiki pages
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.0](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.0), 3 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/wiki](https://github.com/rwxd/wiki) ([v1.3.75](https://github.com/rwxd/wiki/releases/tag/v1.3.75), 6 days ago) - Notes on many things
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.1](https://github.com/netbox-community/netbox/releases/tag/v4.1.1), 2 weeks ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.24](https://github.com/elastic/beats/releases/tag/v7.17.24), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 
 ### 🔨 Latest Pull Requests I've published
 
