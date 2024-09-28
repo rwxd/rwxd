@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (today)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (today)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 day ago)
 - [rwxd/pyreadwise](https://github.com/rwxd/pyreadwise) - Python Module to use the Readwise API (2 days ago)
 - [rwxd/wiki-container](https://github.com/rwxd/wiki-container) - Container to render wiki pages (3 days ago)
-- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (6 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
