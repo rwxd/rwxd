@@ -3,26 +3,26 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (today)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
-- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (today)
-- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (today)
-- [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) - pre-commit hook collection (1 day ago)
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 day ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 day ago)
+- [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (1 day ago)
+- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (1 day ago)
+- [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) - pre-commit hook collection (2 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), today) - Config Repository for Renovate
-- [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) ([v1.2.2](https://github.com/rwxd/pre-commit-hooks/releases/tag/v1.2.2), 1 day ago) - pre-commit hook collection
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.13](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.13), 2 days ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.13](https://github.com/rwxd/ipams/releases/tag/v1.3.13), 3 days ago) - Tool to query multiple IPAMs.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.1), 3 days ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), 1 day ago) - Config Repository for Renovate
+- [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) ([v1.2.2](https://github.com/rwxd/pre-commit-hooks/releases/tag/v1.2.2), 2 days ago) - pre-commit hook collection
+- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.13](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.13), 3 days ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
+- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.13](https://github.com/rwxd/ipams/releases/tag/v1.3.13), 4 days ago) - Tool to query multiple IPAMs.
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.1), 4 days ago) - Unofficial Microsoft Teams for Linux client
 
 ### 🔨 Latest Pull Requests I've published
 
 
 - [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (2 weeks ago)
-- [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 weeks ago)
+- [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 weeks ago)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
 - [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
 - [fix: #1 - use differend endpoint if only default group](https://github.com/akquinet/oxidized-exporter/pull/2) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
