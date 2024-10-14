@@ -22,7 +22,7 @@
 
 
 - [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (3 weeks ago)
-- [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 weeks ago)
+- [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (4 weeks ago)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
 - [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
 - [fix: #1 - use differend endpoint if only default group](https://github.com/akquinet/oxidized-exporter/pull/2) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (1 month ago)
