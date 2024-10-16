@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.2), today) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.4](https://github.com/netbox-community/netbox/releases/tag/v4.1.4), 1 day ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), 1 week ago) - Config Repository for Renovate
 - [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) ([v1.2.2](https://github.com/rwxd/pre-commit-hooks/releases/tag/v1.2.2), 1 week ago) - pre-commit hook collection
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.13](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.13), 1 week ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
-- [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.13](https://github.com/rwxd/ipams/releases/tag/v1.3.13), 1 week ago) - Tool to query multiple IPAMs.
 
 ### 🔨 Latest Pull Requests I've published
 
