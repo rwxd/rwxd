@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.15.3](https://github.com/elastic/beats/releases/tag/v8.15.3), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.15](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.15), today) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.2), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.4](https://github.com/netbox-community/netbox/releases/tag/v4.1.4), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), 1 week ago) - Config Repository for Renovate
-- [rwxd/pre-commit-hooks](https://github.com/rwxd/pre-commit-hooks) ([v1.2.2](https://github.com/rwxd/pre-commit-hooks/releases/tag/v1.2.2), 1 week ago) - pre-commit hook collection
 
 ### 🔨 Latest Pull Requests I've published
 
