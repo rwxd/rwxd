@@ -3,19 +3,19 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 days ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (3 days ago)
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (6 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (4 days ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (4 days ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (2 weeks ago)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [elastic/beats](https://github.com/elastic/beats) ([v8.15.3](https://github.com/elastic/beats/releases/tag/v8.15.3), 3 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.15](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.15), 3 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.2), 4 days ago) - Unofficial Microsoft Teams for Linux client
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.4](https://github.com/netbox-community/netbox/releases/tag/v4.1.4), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [elastic/beats](https://github.com/elastic/beats) ([v8.15.3](https://github.com/elastic/beats/releases/tag/v8.15.3), 4 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.15](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.15), 4 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.2](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.2), 5 days ago) - Unofficial Microsoft Teams for Linux client
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.4](https://github.com/netbox-community/netbox/releases/tag/v4.1.4), 6 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), 2 weeks ago) - Config Repository for Renovate
 
 ### 🔨 Latest Pull Requests I've published
