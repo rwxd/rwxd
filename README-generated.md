@@ -4,8 +4,8 @@
 
 
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (today)
-- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (5 days ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (5 days ago)
+- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (5 days ago)
 - [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (6 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (6 days ago)
 
@@ -16,7 +16,7 @@
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.3), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.14](https://github.com/rwxd/ipams/releases/tag/v1.3.14), 5 days ago) - Tool to query multiple IPAMs.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.16](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.16), 6 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.25](https://github.com/elastic/beats/releases/tag/v7.17.25), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [rwxd/renovate-config](https://github.com/rwxd/renovate-config) ([v1.1.5](https://github.com/rwxd/renovate-config/releases/tag/v1.1.5), 3 weeks ago) - Config Repository for Renovate
 
 ### 🔨 Latest Pull Requests I've published
 
