@@ -4,9 +4,9 @@
 
 
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (today)
-- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (5 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (today)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (5 days ago)
-- [rwxd/ansible-workspace](https://github.com/rwxd/ansible-workspace) - Create a workspace for multiple tools to easier develop ansible playbooks with roles. (6 days ago)
+- [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (5 days ago)
 - [rwxd/wallabag2readwise](https://github.com/rwxd/wallabag2readwise) - Export / synchronize wallabag annotations to readwise highlights (6 days ago)
 
 ### 🔭 Latest releases of projects I've contributed to
