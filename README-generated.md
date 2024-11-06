@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (5 days ago)
+- [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (6 days ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (1 week ago)
@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.6](https://github.com/netbox-community/netbox/releases/tag/v4.1.6), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.6](https://github.com/netbox-community/netbox/releases/tag/v4.1.6), 6 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.3), 1 week ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.14](https://github.com/rwxd/ipams/releases/tag/v1.3.14), 1 week ago) - Tool to query multiple IPAMs.
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.16](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.16), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.16](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.16), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.25](https://github.com/elastic/beats/releases/tag/v7.17.25), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 
 ### 🔨 Latest Pull Requests I've published
