@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.4](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.4), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.5), today) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.6](https://github.com/netbox-community/netbox/releases/tag/v4.1.6), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.14](https://github.com/rwxd/ipams/releases/tag/v1.3.14), 2 weeks ago) - Tool to query multiple IPAMs.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.16](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.16), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
