@@ -4,19 +4,19 @@
 
 
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (1 week ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (2 weeks ago)
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (2 weeks ago)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (2 weeks ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.5), today) - Unofficial Microsoft Teams for Linux client
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.11.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.11.5), 1 day ago) - Unofficial Microsoft Teams for Linux client
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.6](https://github.com/netbox-community/netbox/releases/tag/v4.1.6), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.14](https://github.com/rwxd/ipams/releases/tag/v1.3.14), 2 weeks ago) - Tool to query multiple IPAMs.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.3.16](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.3.16), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.25](https://github.com/elastic/beats/releases/tag/v7.17.25), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [elastic/beats](https://github.com/elastic/beats) ([v7.17.25](https://github.com/elastic/beats/releases/tag/v7.17.25), 3 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 
 ### 🔨 Latest Pull Requests I've published
 
