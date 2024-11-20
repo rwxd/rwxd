@@ -4,8 +4,8 @@
 
 
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (2 weeks ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (3 weeks ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (3 weeks ago)
 - [rwxd/renovate-config](https://github.com/rwxd/renovate-config) - Config Repository for Renovate (3 weeks ago)
 
