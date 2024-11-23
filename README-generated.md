@@ -5,8 +5,8 @@
 
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (today)
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (3 weeks ago)
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (3 weeks ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (3 weeks ago)
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (3 weeks ago)
 - [rwxd/ipams](https://github.com/rwxd/ipams) - Tool to query multiple IPAMs. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
