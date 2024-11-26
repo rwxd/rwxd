@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.15.5](https://github.com/elastic/beats/releases/tag/v8.15.5), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.0.3](https://github.com/rwxd/invgen/releases/tag/v1.0.3), 1 day ago) - Dynamic Ansible Git Inventory
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.1](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.1), 1 day ago) - Unofficial Microsoft Teams for Linux client
-- [elastic/beats](https://github.com/elastic/beats) ([v8.16.1](https://github.com/elastic/beats/releases/tag/v8.16.1), 4 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.7](https://github.com/netbox-community/netbox/releases/tag/v4.1.7), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/ipams](https://github.com/rwxd/ipams) ([v1.3.14](https://github.com/rwxd/ipams/releases/tag/v1.3.14), 1 month ago) - Tool to query multiple IPAMs.
 
