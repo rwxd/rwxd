@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [allow records with regex](https://github.com/akquinet/powerdns-api-proxy/pull/126) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (today)
 - [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (2 months ago)
 - [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (2 months ago)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 months ago)
 - [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 months ago)
-- [fix: #1 - use differend endpoint if only default group](https://github.com/akquinet/oxidized-exporter/pull/2) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 months ago)
