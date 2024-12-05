@@ -3,8 +3,8 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (5 days ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (6 days ago)
+- [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (6 days ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (1 month ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 month ago)
@@ -12,10 +12,10 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.2-beta1), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.3), 4 days ago) - Unofficial Microsoft Teams for Linux client
-- [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.1](https://github.com/rwxd/invgen/releases/tag/v1.1.1), 5 days ago) - Dynamic Ansible Git Inventory
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.0](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.0), 6 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.2-beta1), 3 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.3), 5 days ago) - Unofficial Microsoft Teams for Linux client
+- [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.1](https://github.com/rwxd/invgen/releases/tag/v1.1.1), 6 days ago) - Dynamic Ansible Git Inventory
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.0](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.0), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [elastic/beats](https://github.com/elastic/beats) ([v8.15.5](https://github.com/elastic/beats/releases/tag/v8.15.5), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 
 ### 🔨 Latest Pull Requests I've published
