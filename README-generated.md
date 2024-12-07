@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (today)
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (1 week ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
 - [rwxd/vault-search](https://github.com/rwxd/vault-search) - Search recursively through hashicorp vault for a secret  (1 month ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
