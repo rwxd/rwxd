@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 day ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 days ago)
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (1 week ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.2-beta1), 6 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2-beta1](https://github.com/netbox-community/netbox/releases/tag/v4.2-beta1), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.3](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.3), 1 week ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.1](https://github.com/rwxd/invgen/releases/tag/v1.1.1), 1 week ago) - Dynamic Ansible Git Inventory
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.0](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.0), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
