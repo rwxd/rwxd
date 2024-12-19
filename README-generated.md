@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (3 days ago)
+- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (4 days ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 week ago)
@@ -12,9 +12,9 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.9](https://github.com/netbox-community/netbox/releases/tag/v4.1.9), today) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
-- [elastic/beats](https://github.com/elastic/beats) ([v8.16.2](https://github.com/elastic/beats/releases/tag/v8.16.2), 1 day ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
-- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.5), 1 day ago) - Unofficial Microsoft Teams for Linux client
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.9](https://github.com/netbox-community/netbox/releases/tag/v4.1.9), 1 day ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [elastic/beats](https://github.com/elastic/beats) ([v8.16.2](https://github.com/elastic/beats/releases/tag/v8.16.2), 2 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.5), 2 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.14](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.14), 1 week ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.1](https://github.com/rwxd/invgen/releases/tag/v1.1.1), 2 weeks ago) - Dynamic Ansible Git Inventory
 
