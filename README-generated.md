@@ -3,11 +3,11 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (today)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (4 days ago)
-- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
+- [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (1 week ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (1 week ago)
-- [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
@@ -21,8 +21,8 @@
 ### 🔨 Latest Pull Requests I've published
 
 
+- [fix: delete not working file](https://github.com/rwxd/shitops/pull/17) on [rwxd/shitops](https://github.com/rwxd/shitops) (today)
 - [allow records with regex](https://github.com/akquinet/powerdns-api-proxy/pull/126) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (3 weeks ago)
 - [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (2 months ago)
 - [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 months ago)
 - [fix(ci): bump go to 1.23](https://github.com/akquinet/oxidized-exporter/pull/4) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 months ago)
-- [Merge pull request #2 from akquinet/fix/only-default-group](https://github.com/akquinet/oxidized-exporter/pull/3) on [akquinet/oxidized-exporter](https://github.com/akquinet/oxidized-exporter) (3 months ago)
