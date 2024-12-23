@@ -5,8 +5,8 @@
 
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (4 days ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 week ago)
-- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (1 week ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (2 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
