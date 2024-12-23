@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.9](https://github.com/netbox-community/netbox/releases/tag/v4.1.9), 5 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.1.10](https://github.com/netbox-community/netbox/releases/tag/v4.1.10), today) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [elastic/beats](https://github.com/elastic/beats) ([v8.16.2](https://github.com/elastic/beats/releases/tag/v8.16.2), 6 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.5), 6 days ago) - Unofficial Microsoft Teams for Linux client
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.14](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.14), 1 week ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
