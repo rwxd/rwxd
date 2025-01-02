@@ -4,7 +4,7 @@
 
 
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (1 week ago)
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 week ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (2 weeks ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (3 weeks ago)
 - [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 weeks ago)
@@ -21,7 +21,7 @@
 ### 🔨 Latest Pull Requests I've published
 
 
-- [fix: delete not working file](https://github.com/rwxd/shitops/pull/17) on [rwxd/shitops](https://github.com/rwxd/shitops) (1 week ago)
+- [fix: delete not working file](https://github.com/rwxd/shitops/pull/17) on [rwxd/shitops](https://github.com/rwxd/shitops) (2 weeks ago)
 - [allow records with regex](https://github.com/akquinet/powerdns-api-proxy/pull/126) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [only major &amp; minor patches](https://github.com/rwxd/renovate-config/pull/2) on [rwxd/renovate-config](https://github.com/rwxd/renovate-config) (3 months ago)
 - [some changes](https://github.com/rwxd/ankigengpt/pull/84) on [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) (3 months ago)
