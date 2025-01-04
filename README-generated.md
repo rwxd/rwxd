@@ -7,7 +7,7 @@
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (2 weeks ago)
 - [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (2 weeks ago)
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) - Cloudflare DynDNS Tool to update DNS entries with new public IPs. (3 weeks ago)
-- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (3 weeks ago)
+- [rwxd/pulla](https://github.com/rwxd/pulla) - Backup personal GitHub and starred repositories to the local file system. (4 weeks ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
