@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (4 days ago)
+- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (5 days ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 weeks ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (4 weeks ago)
@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [elastic/beats](https://github.com/elastic/beats) ([v7.17.27](https://github.com/elastic/beats/releases/tag/v7.17.27), 2 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [elastic/beats](https://github.com/elastic/beats) ([v7.17.27](https://github.com/elastic/beats/releases/tag/v7.17.27), 3 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.1), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.1](https://github.com/netbox-community/netbox/releases/tag/v4.2.1), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) ([v1.12.5](https://github.com/IsmaelMartinez/teams-for-linux/releases/tag/v1.12.5), 1 month ago) - Unofficial Microsoft Teams for Linux client
