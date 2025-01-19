@@ -3,18 +3,18 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (today)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 week ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (3 weeks ago)
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (1 month ago)
-- [rwxd/ankigengpt](https://github.com/rwxd/ankigengpt) - Convert your text into flashcards for use in Anki (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.2](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.2), today) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.2](https://github.com/netbox-community/netbox/releases/tag/v4.2.2), 2 days ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [elastic/beats](https://github.com/elastic/beats) ([v7.17.27](https://github.com/elastic/beats/releases/tag/v7.17.27), 5 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.4.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.4.1), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.14](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.14), 1 month ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.1](https://github.com/rwxd/invgen/releases/tag/v1.1.1), 1 month ago) - Dynamic Ansible Git Inventory
 
