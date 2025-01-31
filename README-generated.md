@@ -13,7 +13,7 @@
 
 
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.1), 2 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [elastic/beats](https://github.com/elastic/beats) ([v8.17.1](https://github.com/elastic/beats/releases/tag/v8.17.1), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.17.1](https://github.com/elastic/beats/releases/tag/v8.17.1), 1 week ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.13](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.13), 1 week ago) - Search through PowerDNS records on the cli
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.2](https://github.com/netbox-community/netbox/releases/tag/v4.2.2), 2 weeks ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/cloudflare-dyndns](https://github.com/rwxd/cloudflare-dyndns) ([v1.1.14](https://github.com/rwxd/cloudflare-dyndns/releases/tag/v1.1.14), 1 month ago) - Cloudflare DynDNS Tool to update DNS entries with new public IPs.
