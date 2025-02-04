@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.3](https://github.com/netbox-community/netbox/releases/tag/v4.2.3), today) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.2](https://github.com/rwxd/invgen/releases/tag/v1.1.2), today) - Dynamic Ansible Git Inventory
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 4 days ago) - Small command line tool to notify myself through various services.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.1), 6 days ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [elastic/beats](https://github.com/elastic/beats) ([v8.17.1](https://github.com/elastic/beats/releases/tag/v8.17.1), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.13](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.13), 2 weeks ago) - Search through PowerDNS records on the cli
 
 ### 🔨 Latest Pull Requests I've published
 
