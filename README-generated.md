@@ -12,11 +12,11 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.17.2](https://github.com/elastic/beats/releases/tag/v8.17.2), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.9](https://github.com/rwxd/invgen/releases/tag/v1.1.9), 1 day ago) - Dynamic Ansible Git Inventory
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.3](https://github.com/netbox-community/netbox/releases/tag/v4.2.3), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 1 week ago) - Small command line tool to notify myself through various services.
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.1), 1 week ago) - API proxy for powerdns implementing multiple tokens and fine access control.
-- [elastic/beats](https://github.com/elastic/beats) ([v8.17.1](https://github.com/elastic/beats/releases/tag/v8.17.1), 3 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 
 ### 🔨 Latest Pull Requests I've published
 
