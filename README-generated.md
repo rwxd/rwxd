@@ -3,20 +3,20 @@
 ### 👷 Check out what I'm currently working on
 
 
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (today)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (3 days ago)
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (6 days ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (2 weeks ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (2 weeks ago)
 - [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 month ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.14](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.14), today) - Search through PowerDNS records on the cli
 - [elastic/beats](https://github.com/elastic/beats) ([v8.17.2](https://github.com/elastic/beats/releases/tag/v8.17.2), 5 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.9](https://github.com/rwxd/invgen/releases/tag/v1.1.9), 6 days ago) - Dynamic Ansible Git Inventory
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.3](https://github.com/netbox-community/netbox/releases/tag/v4.2.3), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 2 weeks ago) - Small command line tool to notify myself through various services.
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.1](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.1), 2 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 
 ### 🔨 Latest Pull Requests I've published
 
