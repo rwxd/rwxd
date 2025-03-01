@@ -7,7 +7,7 @@
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 week ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 week ago)
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (2 weeks ago)
-- [rwxd/setup-nix](https://github.com/rwxd/setup-nix) - My nix configuration. (1 month ago)
+- [rwxd/shitops-author](https://github.com/rwxd/shitops-author) - Script for https://shitops.de posts (2 months ago)
 
 ### 🔭 Latest releases of projects I've contributed to
 
