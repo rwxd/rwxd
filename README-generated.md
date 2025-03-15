@@ -22,7 +22,7 @@
 
 
 - [fix: using ruff for formatting](https://github.com/akquinet/powerdns-api-proxy/pull/150) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 week ago)
-- [docs: typo](https://github.com/akquinet/powerdns-api-proxy/pull/144) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (4 weeks ago)
+- [docs: typo](https://github.com/akquinet/powerdns-api-proxy/pull/144) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [fix: solved pre-commit errors](https://github.com/akquinet/powerdns-api-proxy/pull/133) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
 - [uvicorn should listen on all interfaces to support ipv6](https://github.com/akquinet/powerdns-api-proxy/pull/128) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
 - [fix: delete not working file](https://github.com/rwxd/shitops/pull/17) on [rwxd/shitops](https://github.com/rwxd/shitops) (2 months ago)
