@@ -12,7 +12,7 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
-- [elastic/beats](https://github.com/elastic/beats) ([v8.17.4](https://github.com/elastic/beats/releases/tag/v8.17.4), 4 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
+- [elastic/beats](https://github.com/elastic/beats) ([v8.17.4](https://github.com/elastic/beats/releases/tag/v8.17.4), 5 days ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) ([v4.2.6](https://github.com/netbox-community/netbox/releases/tag/v4.2.6), 1 week ago) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.16](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.16), 1 week ago) - Search through PowerDNS records on the cli
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.3), 3 weeks ago) - API proxy for powerdns implementing multiple tokens and fine access control.
