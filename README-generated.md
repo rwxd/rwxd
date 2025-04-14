@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 
-- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (4 days ago)
+- [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (5 days ago)
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 week ago)
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 week ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (1 month ago)
@@ -22,7 +22,7 @@
 
 
 - [fix: using ruff for formatting](https://github.com/akquinet/powerdns-api-proxy/pull/150) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
-- [docs: typo](https://github.com/akquinet/powerdns-api-proxy/pull/144) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (1 month ago)
+- [docs: typo](https://github.com/akquinet/powerdns-api-proxy/pull/144) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
 - [fix: solved pre-commit errors](https://github.com/akquinet/powerdns-api-proxy/pull/133) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (2 months ago)
 - [uvicorn should listen on all interfaces to support ipv6](https://github.com/akquinet/powerdns-api-proxy/pull/128) on [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) (3 months ago)
 - [fix: delete not working file](https://github.com/rwxd/shitops/pull/17) on [rwxd/shitops](https://github.com/rwxd/shitops) (3 months ago)
