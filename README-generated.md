@@ -12,8 +12,8 @@
 ### 🔭 Latest releases of projects I've contributed to
 
 
+- [elastic/beats](https://github.com/elastic/beats) ([v8.18.0](https://github.com/elastic/beats/releases/tag/v8.18.0), today) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.18](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.18), 1 week ago) - Search through PowerDNS records on the cli
-- [elastic/beats](https://github.com/elastic/beats) ([v8.17.4](https://github.com/elastic/beats/releases/tag/v8.17.4), 3 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.3), 1 month ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.9](https://github.com/rwxd/invgen/releases/tag/v1.1.9), 2 months ago) - Dynamic Ansible Git Inventory
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 2 months ago) - Small command line tool to notify myself through various services.
