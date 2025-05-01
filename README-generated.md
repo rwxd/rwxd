@@ -16,7 +16,7 @@
 - [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.18](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.18), 3 weeks ago) - Search through PowerDNS records on the cli
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.3), 1 month ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.9](https://github.com/rwxd/invgen/releases/tag/v1.1.9), 2 months ago) - Dynamic Ansible Git Inventory
-- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 2 months ago) - Small command line tool to notify myself through various services.
+- [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 3 months ago) - Small command line tool to notify myself through various services.
 
 ### 🔨 Latest Pull Requests I've published
 
