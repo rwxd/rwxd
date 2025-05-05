@@ -4,8 +4,8 @@
 
 
 - [rwxd/shitops](https://github.com/rwxd/shitops) - Technical Solutions for the 10X Engineers (3 weeks ago)
-- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (4 weeks ago)
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (4 weeks ago)
+- [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) - API proxy for powerdns implementing multiple tokens and fine access control. (1 month ago)
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) - Search through PowerDNS records on the cli (1 month ago)
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) - Small command line tool to notify myself through various services. (2 months ago)
 - [rwxd/invgen](https://github.com/rwxd/invgen) - Dynamic Ansible Git Inventory (2 months ago)
 
@@ -13,7 +13,7 @@
 
 
 - [elastic/beats](https://github.com/elastic/beats) ([v8.17.5](https://github.com/elastic/beats/releases/tag/v8.17.5), 2 weeks ago) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash
-- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.18](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.18), 4 weeks ago) - Search through PowerDNS records on the cli
+- [akquinet/pdnsgrep](https://github.com/akquinet/pdnsgrep) ([v1.0.18](https://github.com/akquinet/pdnsgrep/releases/tag/v1.0.18), 1 month ago) - Search through PowerDNS records on the cli
 - [akquinet/powerdns-api-proxy](https://github.com/akquinet/powerdns-api-proxy) ([v1.5.3](https://github.com/akquinet/powerdns-api-proxy/releases/tag/v1.5.3), 2 months ago) - API proxy for powerdns implementing multiple tokens and fine access control.
 - [rwxd/invgen](https://github.com/rwxd/invgen) ([v1.1.9](https://github.com/rwxd/invgen/releases/tag/v1.1.9), 2 months ago) - Dynamic Ansible Git Inventory
 - [rwxd/notify-me](https://github.com/rwxd/notify-me) ([v1.2.5](https://github.com/rwxd/notify-me/releases/tag/v1.2.5), 3 months ago) - Small command line tool to notify myself through various services.
